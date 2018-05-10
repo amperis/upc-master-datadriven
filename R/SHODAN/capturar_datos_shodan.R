@@ -17,30 +17,42 @@ library(rworldmap)
 library(ggthemes)
 library(shodan)
 
+rm(list=ls(all=TRUE))
+
 #--- especificando KEY de acceso a la cuenta de Shodan
 Sys.setenv(SHODAN_API_KEY="CDQL6U2lc9WKTHCVHe4vxgz8dgO2SSnV")
 packageVersion("shodan")
 account_profile()
 
+rstring<-function(s, num) {
+  X<-c()
+  for (i in 1:num) {
+     X<-c(X, s) 
+  }
+  return(X)
+}
+
 #--- cargado lista de dispositivos industriales a buscar en Shodan
 csv <- read.csv(file="dispositivos_industriales.csv", head=TRUE, sep=";")
-busquedas<-csv["cadena_busqueda"]
 
-result<-shodan_search("A850 Telemetry Gateway")
-result<-c(result$matches$ip_str,result$matches$isp)
-result
-
-result$matches$ip_str
-result$matches$isp
-result$matches$location$city
-result$matches$location$longitude
-result$matches$location$latitude
-result$matches$location$country_name
-result$matches$location$country_code3
-result$matches$os
-result$matches$org
-result$matches$asn
-
-for (i in 1:length(busquedas)) {
-  print(busquedas[i])
+result<-data.frame()
+for (i in 1:nrow(csv)) {
+  fabricante<-as.character(csv[i,"fabricante"])
+  producto<-as.character(csv[i,"producto"])
+  cadena_busqueda<-as.character(csv[i,"cadena_busqueda"])
+  print(cadena_busqueda)
+  aux<-shodan_search(cadena_busqueda)
+  Sys.sleep(2)
+  v_fabricante<-rstring(fabricante,length(aux$matches$ip_str))
+  v_producto<-rstring(producto,length(aux$matches$ip_str))
+  v_cadena_busqueda<-rstring(cadena_busqueda,length(aux$matches$ip_str))
+  result_cvs<-data.frame(v_fabricante, v_producto, v_cadena_busqueda, aux$matches$ip_str, aux$matches$isp, aux$matches$location$city, aux$matches$location$longitude, aux$matches$location$latitude, aux$matches$location$country_name, aux$matches$location$country_code3, aux$matches$os, aux$matches$org, aux$matches$asn )
+  result <- rbind(result,result_cvs)
 }
+
+write.csv(result,file="resultado_busqueda_shodan.csv",quote=FALSE)
+
+
+
+
+

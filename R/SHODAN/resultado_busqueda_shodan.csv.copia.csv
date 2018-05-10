@@ -1,0 +1,772 @@
+,v_fabricante,v_producto,v_cadena_busqueda,aux.matches.ip_str,aux.matches.isp,aux.matches.location.city,aux.matches.location.longitude,aux.matches.location.latitude,aux.matches.location.country_name,aux.matches.location.country_code3,aux.matches.os,aux.matches.org,aux.matches.asn
+1,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,181.188.181.213,Telefónica Celular de Bolivia S.A.,La Paz,-68.15,-16.5,Bolivia,BOL,NA,Telefónica Celular de Bolivia S.A.,AS27882
+2,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,64.146.178.16,Northwest Open Access Network,Prescott,-118.4739,46.3531,United States,USA,NA,Northwest Open Access Network,AS16713
+3,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+4,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,186.151.254.244,Claro Guatemala Static IP,Guatemala City,-90.5269,14.6211,Guatemala,GTM,NA,Claro Guatemala Static IP,AS14754
+5,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+6,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+7,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+8,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,212.52.154.132,ONATEL (Office National des Telecommunications, PT,NA,-2,13,Burkina Faso,BFA,NA,ONATEL (Office National des Telecommunications, PT,AS25543
+9,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+10,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,190.181.62.52,AXS Bolivia S. A.,La Paz,-68.15,-16.5,Bolivia,BOL,NA,AXS Bolivia S. A.,AS26210
+11,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,174.131.76.214,Windstream Communications,Hilliard,-81.7628,30.6751,United States,USA,NA,Windstream Communications,AS7029
+12,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,99.30.71.73,AT&T Internet Services,NA,-97.822,37.751,United States,USA,NA,AT&T Internet Services,AS7018
+13,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,190.52.49.2,Telefónica Celular de Bolivia S.A.,Sucre,-65.2592,-19.0431,Bolivia,BOL,NA,Cotes_adsl_sector1,AS27882
+14,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,79.129.15.3,OTEnet S.A.,Athens,23.7333,37.9833,Greece,GRC,NA,OTEnet S.A.,AS6799
+15,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,200.87.167.28,Entel S.A. - EntelNet,La Paz,-68.15,-16.5,Bolivia,BOL,NA,Entel S.A. - EntelNet,AS6568
+16,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+17,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,89.115.241.138,Vodafone Portugal,Pevidem,-8.35740000000001,41.4294,Portugal,PRT,NA,Vodafone Portugal,AS12353
+18,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,68.233.205.99,TPx Communications,Los Angeles,-118.2549,34.0533,United States,USA,NA,TPx Communications,AS14265
+19,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,190.186.91.141,COTAS,NA,-65,-17,Bolivia,BOL,NA,COTAS,AS25620
+20,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+21,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+22,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,2.139.248.145,Telefonica de Espana Static IP,Barcelona,2.17410000000001,41.3984,Spain,ESP,NA,Telefonica de Espana Static IP,AS3352
+23,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+24,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,123.176.31.195,Dhivehi Raajjeyge Gulhun (DHIRAAGU),Male,73.5,4.16669999999999,Maldives,MDV,NA,Dhivehi Raajjeyge Gulhun (DHIRAAGU),AS7642
+25,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+26,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,190.129.32.53,Entel S.A. - EntelNet,La Paz,-68.15,-16.5,Bolivia,BOL,NA,Entel S.A. - EntelNet,AS6568
+27,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+28,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,103.29.168.22,Lateral Plains Pty,NA,143.2104,-33.494,Australia,AUS,NA,Lateral Plains Pty,AS131999
+29,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,196.0.33.174,Uganda Telecom,NA,32,1,Uganda,UGA,NA,Uganda Telecom,AS21491
+30,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,85.139.241.170,Nos Comunicacoes, S.A.,Montijo,-8.97389999999999,38.7067,Portugal,PRT,NA,ZON Tv Cabo,AS2860
+31,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+32,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,200.87.128.214,Entel S.A. - EntelNet,La Paz,-68.15,-16.5,Bolivia,BOL,NA,Entel S.A. - EntelNet,AS6568
+33,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,190.148.193.227,Claro Guatemala Static IP,Guatemala City,-90.5269,14.6211,Guatemala,GTM,NA,Claro Guatemala Static IP,AS14754
+34,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,203.48.138.5,Telstra Internet,Macquarie,149.0636,-35.2513,Australia,AUS,NA,Telstra Internet,AS1221
+35,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+36,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,84.254.20.130,Wind Hellas Telecommunications SA,Thessaloníki,22.9439,40.6403,Greece,GRC,NA,Tellas S.A.,AS25472
+37,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+38,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+39,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,197.243.37.2,Olleh-Rwanda-Networks,Kigali,30.0606,-1.95359999999999,Rwanda,RWA,NA,Olleh-Rwanda-Networks,AS37228
+40,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,103.25.23.188,Beijing Sheng Hexuan Culture Communication Co.,Beijing,116.3883,39.9289,China,CHN,NA,Beijing Sheng Hexuan Culture Communication Co.,AS23724
+41,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+42,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,64.141.40.178,Shaw Communications,Calgary,-114.0214,51.0876,Canada,CAN,NA,Shaw Communications,AS6327
+43,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,82.78.81.167,RCS & RDS,Buzau,26.8333,45.15,Romania,ROU,NA,RCS & RDS Business,AS8708
+44,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+45,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,187.188.195.150,Totalplay,Hermosillo,-110.9667,29.0667,Mexico,MEX,NA,Totalplay,AS17072
+46,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+47,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,72.38.233.151,Cogeco Cable,Sarnia,-82.3592,42.9888,Canada,CAN,NA,Cogeco Cable,AS7992
+48,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+49,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+50,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,93.103.3.87,T-2 Access Network,Ljubljana,14.5051,46.0511,Slovenia,SVN,NA,T-2 Access Network,AS34779
+51,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,80.120.157.195,Telekom Austria,Kasten Bei Boheimkirchen,15.7652,48.1636,Austria,AUT,NA,Telekom Austria,AS8447
+52,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+53,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,201.100.65.71,Telmex,NA,-99.0111,19.4371,Mexico,MEX,NA,Telmex,AS8151
+54,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,193.93.68.162,Gmina Lublin,Swidnik,22.7107,51.2231,Poland,POL,NA,Gmina Lublin,AS42520
+55,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,115.70.33.246,Exetel,Belrose,151.2167,-33.7333,Australia,AUS,NA,Exetel,AS10143
+56,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,67.43.216.130,Vistabeam,Wray,-102.2519,40.0858,United States,USA,NA,Vistabeam,AS394883
+57,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,187.141.84.67,Telmex,Xalapa,-96.9631,19.5386,Mexico,MEX,NA,Telmex,AS8151
+58,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,108.223.119.91,AT&T U-verse,NA,-97.822,37.751,United States,USA,NA,AT&T U-verse,AS7018
+59,Adcon Telemetry,A850 Telemetry Gateway,A850 Telemetry Gateway,195.251.18.9,Greek Research and Technology Network S.A,NA,23.7167,37.9667,Greece,GRC,NA,University of Thessaly,AS5408
+60,ABB,RTU500,ABB RTU560,212.5.144.2,Vivacom,Burgas,27.4667,42.5,Bulgaria,BGR,NA,Vivacom,AS8866
+61,ABB,RTU500,ABB RTU560,213.226.45.3,Mtel,NA,23.3333,42.7,Bulgaria,BGR,NA,Mtel,AS12716
+62,ABB,RTU500,ABB RTU560,188.59.108.66,Turkcell,NA,28.9948,41.0214,Turkey,TUR,Windows 7 or 8,Turkcell,AS16135
+63,ABB,RTU500,ABB RTU560,213.226.45.163,Mtel,NA,23.3333,42.7,Bulgaria,BGR,NA,Mtel,AS12716
+64,ABB,RTU500,ABB RTU560,213.226.45.161,Mtel,NA,23.3333,42.7,Bulgaria,BGR,NA,Mtel,AS12716
+65,ABB,Generic,ABB Webmodule,176.227.138.87,Skylogic S.p.A.,Bedford,-0.449999999999989,52.1333,United Kingdom,GBR,NA,Skylogic S.p.A.,AS29286
+66,ABB,Generic,ABB Webmodule,176.227.138.87,Skylogic S.p.A.,Bedford,-0.449999999999989,52.1333,United Kingdom,GBR,NA,Skylogic S.p.A.,AS29286
+67,ABB,Generic,ABB Webmodule,176.227.138.87,Skylogic S.p.A.,Bedford,-0.449999999999989,52.1333,United Kingdom,GBR,NA,Skylogic S.p.A.,AS29286
+68,ACKP,Generic,AKCP Embedded Web Server,128.39.64.36,UNINETT AS,Kristiansand,7.9974,58.1496,Norway,NOR,NA,UNINETT AS,AS224
+69,ACKP,Generic,AKCP Embedded Web Server,129.177.41.157,UNINETT,Bergen,5.32419999999999,60.393,Norway,NOR,NA,UNINETT,AS224
+70,ACKP,Generic,AKCP Embedded Web Server,193.206.161.6,Consortium GARR,Caravate,8.65430000000001,45.8786,Italy,ITA,NA,Consortium GARR,AS137
+71,ACKP,Generic,AKCP Embedded Web Server,76.72.88.170,Lafayette Consolidated Government,Lafayette,-91.9895,30.239,United States,USA,NA,Lafayette Consolidated Government,AS25921
+72,ACKP,Generic,AKCP Embedded Web Server,59.125.27.191,HiNet,Beinan,121.1228,22.781,Taiwan,TWN,NA,HiNet,AS3462
+73,ACKP,Generic,AKCP Embedded Web Server,160.94.233.60,University of Minnesota,Minneapolis,-93.2323,44.9733,United States,USA,NA,University of Minnesota,AS217
+74,ACKP,Generic,AKCP Embedded Web Server,38.101.126.134,Cogent Communications,Orlando,-81.2439,28.5883,United States,USA,Windows 7 or 8,Cogent Communications,AS174
+75,ACKP,Generic,AKCP Embedded Web Server,92.60.105.3,Nuco Technologies Ltd,NA,-0.122399999999999,51.4964,United Kingdom,GBR,NA,Nuco Technologies Ltd,AS45014
+76,ACKP,Generic,AKCP Embedded Web Server,131.211.28.55,Universiteit Utrecht,Utrecht,5.1191,52.0938,Netherlands,NLD,NA,Universiteit Utrecht,AS1103
+77,ACKP,Generic,AKCP Embedded Web Server,100.33.121.225,Verizon Fios,Spring Valley,-74.046,41.1163,United States,USA,NA,Verizon Fios,AS701
+78,ACKP,Generic,AKCP Embedded Web Server,92.60.104.158,Nuco Technologies Ltd,NA,-0.122399999999999,51.4964,United Kingdom,GBR,NA,Nuco Technologies Ltd,AS45014
+79,ACKP,Generic,AKCP Embedded Web Server,81.194.43.56,Renater,Paris,2.32919999999999,48.8628,France,FRA,NA,Universite Paris,AS2200
+80,ACKP,Generic,AKCP Embedded Web Server,59.125.75.99,HiNet,Changhua,120.5384,24.074,Taiwan,TWN,NA,HiNet,AS3462
+81,ACKP,Generic,AKCP Embedded Web Server,110.169.21.202,True Internet,Bangkok,100.4833,13.75,Thailand,THA,NA,True Internet,AS17552
+82,ACKP,Generic,AKCP Embedded Web Server,193.33.135.85,e-Quest Automatisering B.V.,NA,4.89949999999999,52.3824,Netherlands,NLD,NA,e-Quest Automatisering B.V.,AS42707
+83,ACKP,Generic,AKCP Embedded Web Server,129.177.41.157,UNINETT,Bergen,5.32419999999999,60.393,Norway,NOR,NA,UNINETT,AS224
+84,ACKP,Generic,AKCP Embedded Web Server,92.175.228.18,Orange,Givet,4.8287,50.1081,France,FRA,NA,Orange,AS3215
+85,ACKP,Generic,AKCP Embedded Web Server,64.201.242.195,Paxio,Oakland,-122.2457,37.7898,United States,USA,NA,Paxio,AS36734
+86,ACKP,Generic,AKCP Embedded Web Server,202.63.32.11,Eftel Limited.,Narellan,150.7333,-34.0333,Australia,AUS,NA,Eftel Limited.,AS10113
+87,ACKP,Generic,AKCP Embedded Web Server,217.122.217.54,Ziggo,Halfweg,4.75049999999999,52.3846,Netherlands,NLD,Windows 7 or 8,Ziggo,AS9143
+88,ACKP,Generic,AKCP Embedded Web Server,62.244.88.61,BLUEGIX,Raucourt-et-flaba,4.95699999999999,49.6034,France,FRA,NA,BLUEGIX,AS8565
+89,ACKP,Generic,AKCP Embedded Web Server,213.115.5.147,Bredbandsbolaget AB,Göteborg,11.9667,57.7167,Sweden,SWE,NA,Bredbandsbolaget AB,AS2119
+90,ACKP,Generic,AKCP Embedded Web Server,216.234.77.148,Ymax Communications Corp,West Palm Beach,-80.0593,26.6693,United States,USA,NA,Ymax Communications Corp,AS19107
+91,ACKP,Generic,AKCP Embedded Web Server,92.60.104.243,Nuco Technologies Ltd,NA,-0.122399999999999,51.4964,United Kingdom,GBR,NA,Nuco Technologies Ltd,AS45014
+92,ACKP,Generic,AKCP Embedded Web Server,41.220.130.117,Habari Node Ltd,Arusha,36.6833,-3.36670000000001,Tanzania, United Republic of,TZA,NA,Habari Node Ltd,AS36909
+93,ACKP,Generic,AKCP Embedded Web Server,92.60.105.3,Nuco Technologies Ltd,NA,-0.122399999999999,51.4964,United Kingdom,GBR,NA,Nuco Technologies Ltd,AS45014
+94,ACKP,Generic,AKCP Embedded Web Server,62.48.32.11,Playnet S.R.L.,Florence,11.2463,43.7793,Italy,ITA,NA,Playnet S.R.L.,AS13284
+95,ACKP,Generic,AKCP Embedded Web Server,217.112.240.33,TNNet Oy,Kiihtelysvaara,30.25,62.4833,Finland,FIN,NA,TNNet Main Network,AS30798
+96,ACKP,Generic,AKCP Embedded Web Server,31.197.110.107,Telecom Italia Business,Cilavegna,8.74469999999999,45.3107,Italy,ITA,NA,Telecom Italia Business,AS3269
+97,ACKP,Generic,AKCP Embedded Web Server,199.91.57.47,Trenton Telephone Company,Bryant,-85.6482,34.914,United States,USA,NA,Trenton Telephone Company,AS32040
+98,ACKP,Generic,AKCP Embedded Web Server,128.39.64.41,UNINETT AS,Kristiansand,7.9974,58.1496,Norway,NOR,Windows 7 or 8,UNINETT AS,AS224
+99,ACKP,Generic,AKCP Embedded Web Server,203.237.216.19,Korean Education Network,NA,126.9741,37.5112,Korea, Republic of,KOR,NA,Dankook University,AS9637
+100,ACKP,Generic,AKCP Embedded Web Server,204.77.164.124,Great Plains Communications,Columbus,-97.347,41.512,United States,USA,NA,Great Plains Communications,AS13807
+101,ACKP,Generic,AKCP Embedded Web Server,72.46.218.234,Ets Telephone Company,Sugar Land,-95.6335,29.5557,United States,USA,NA,enTouch,AS12177
+102,ACKP,Generic,AKCP Embedded Web Server,72.48.117.4,Grande Communications,San Marcos,-97.9414,29.8833,United States,USA,NA,Grande Communications,AS7459
+103,ACKP,Generic,AKCP Embedded Web Server,128.114.49.218,University of California, Santa Cruz,Santa Cruz,-122.0603,36.9899,United States,USA,NA,University of California, Santa Cruz,AS5739
+104,ACKP,Generic,AKCP Embedded Web Server,129.7.180.77,University of Houston,Houston,-95.4342,29.834,United States,USA,NA,University of Houston,AS7276
+105,ACKP,Generic,AKCP Embedded Web Server,131.123.35.239,Kent State University,Kent,-81.3579,41.1537,United States,USA,NA,Kent State University,AS11050
+106,ACKP,Generic,AKCP Embedded Web Server,131.155.68.12,Technische Universiteit Eindhoven,Eindhoven,5.4667,51.45,Netherlands,NLD,NA,Technische Universiteit Eindhoven,AS1161
+107,ACKP,Generic,AKCP Embedded Web Server,193.48.106.60,Renater,NA,2.33869999999999,48.8582,France,FRA,NA,Renater,AS2200
+108,ACKP,Generic,AKCP Embedded Web Server,27.145.90.233,True Internet,Bangkok,100.531,13.7625,Thailand,THA,NA,True Internet,AS17552
+109,ACKP,Generic,AKCP Embedded Web Server,175.200.81.19,Korea Telecom,Busan,129.0403,35.1028,Korea, Republic of,KOR,NA,Korea Telecom,AS4766
+110,ACKP,Generic,AKCP Embedded Web Server,59.125.74.159,HiNet,Changhua,120.5384,24.074,Taiwan,TWN,NA,HiNet,AS3462
+111,ACKP,Generic,AKCP Embedded Web Server,158.136.4.48,Plymouth State College,Plymouth,-71.7163,43.7173,United States,USA,NA,Plymouth State College,AS27405
+112,ACKP,Generic,AKCP Embedded Web Server,59.125.27.11,HiNet,Beinan,121.1228,22.781,Taiwan,TWN,NA,HiNet,AS3462
+113,ACKP,Generic,AKCP Embedded Web Server,211.22.178.136,HiNet,NA,121,23.5,Taiwan,TWN,NA,HiNet,AS3462
+114,ACKP,Generic,AKCP Embedded Web Server,60.250.156.207,HiNet,Taipei,121.5318,25.0478,Taiwan,TWN,NA,HiNet,AS3462
+115,ACKP,Generic,AKCP Embedded Web Server,206.75.213.12,Telus Communications,NA,-79.3716,43.6319,Canada,CAN,NA,WorldGate,AS6171
+116,ACKP,Generic,AKCP Embedded Web Server,82.188.224.14,Telecom Italia Business,NA,12.1097,43.1479,Italy,ITA,NA,Telecom Italia Business,AS3269
+117,ACKP,Generic,AKCP Embedded Web Server,185.136.72.11,Briskona Ltd,NA,-0.122399999999999,51.4964,United Kingdom,GBR,NA,Briskona Ltd,AS42010
+118,ACKP,Generic,AKCP Embedded Web Server,38.110.13.136,Cogent Communications,Clemson,-82.8117,34.6839,United States,USA,NA,Cogent Communications,AS174
+119,ACKP,Generic,AKCP Embedded Web Server,93.119.253.50,KEVAG Telekom GmbH,Steinebach,7.8167,50.6333,Germany,DEU,NA,KEVAG Telekom GmbH,AS12360
+120,ACKP,Generic,AKCP Embedded Web Server,41.211.21.25,Teledata, Ghana,Takoradi,-1.75,4.88329999999999,Ghana,GHA,NA,Teledata, Ghana,AS35091
+121,ACKP,Generic,AKCP Embedded Web Server,161.111.20.61,Consejo Superior de Investigaciones,Coslada,-3.56129999999999,40.4238,Spain,ESP,NA,Consejo Superior de Investigaciones,AS766
+122,ACKP,Generic,AKCP Embedded Web Server,129.241.155.59,Norwegian University of Science and Technology,Trondheim,10.4167,63.4167,Norway,NOR,NA,Norwegian University of Science and Technology,AS224
+123,ACKP,Generic,AKCP Embedded Web Server,38.101.255.136,Cogent Communications,Atlanta,-84.3491,33.7884,United States,USA,NA,Cogent Communications,AS174
+124,ACKP,Generic,AKCP Embedded Web Server,58.130.93.16,Beijing Education Information Network,Beijing,116.3883,39.9289,China,CHN,NA,China Telecom Beijing,AS4847
+125,ACKP,Generic,AKCP Embedded Web Server,203.57.144.248,Exetel,NA,143.2104,-33.494,Australia,AUS,NA,Exetel,AS10143
+126,ACKP,Generic,AKCP Embedded Web Server,220.149.226.12,Korean Education Network,Seongnam,127.1378,37.4386,Korea, Republic of,KOR,NA,Korea Telecom,AS4766
+127,ACKP,Generic,AKCP Embedded Web Server,212.120.0.42,Company for computing services NETCETERA DOOEL exp,Skopje,21.4314,41.9965,Macedonia,MKD,NA,Company for computing services NETCETERA DOOEL exp,AS8982
+128,ACKP,Generic,AKCP Embedded Web Server,134.214.49.72,Reseau Optique du Campus de la Doua,Villeurbanne,4.88329999999999,45.7667,France,FRA,NA,Reseau Optique du Campus de la Doua,AS2060
+129,ACKP,Generic,AKCP Embedded Web Server,216.239.165.107,Summit Broadband,Kissimmee,-81.589,28.312,United States,USA,NA,Summit Broadband,AS23314
+130,ACKP,Generic,AKCP Embedded Web Server,128.39.64.39,UNINETT AS,Kristiansand,7.9974,58.1496,Norway,NOR,NA,UNINETT AS,AS224
+131,ACKP,Generic,AKCP Embedded Web Server,129.125.48.118,Rijksuniversiteit Groningen,Groningen,6.55000000000001,53.2167,Netherlands,NLD,NA,Rijksuniversiteit Groningen,AS1103
+132,ACKP,Generic,AKCP Embedded Web Server,209.193.73.95,Visionary Communications,Gillette,-105.6665,44.5562,United States,USA,NA,Visionary Communications,AS10835
+133,ACKP,Generic,AKCP Embedded Web Server,88.187.140.16,Free SAS,Jouy-le-châtel,3.1918,48.6783,France,FRA,NA,Free SAS,AS12322
+134,ACKP,Generic,AKCP Embedded Web Server,152.2.227.207,University of North Carolina at Chapel Hill,Chapel Hill,-79.1077,36.0525,United States,USA,NA,University of North Carolina at Chapel Hill,AS36850
+135,ACKP,Generic,AKCP Embedded Web Server,64.57.165.89,Brandenburg Telephone Company,Elizabethtown,-85.8565,37.7153,United States,USA,NA,Brandenburg Telephone Company,AS26727
+136,ACKP,Generic,AKCP Embedded Web Server,216.8.159.209,Managed Network Systems,Windsor,-82.9459,42.3037,Canada,CAN,NA,Managed Network Systems,AS7057
+137,ACKP,Generic,AKCP Embedded Web Server,129.177.40.166,UNINETT,Bergen,5.32419999999999,60.393,Norway,NOR,NA,UNINETT,AS224
+138,ACKP,Generic,AKCP Embedded Web Server,67.43.161.187,XFERNET,Los Angeles,-118.3098,34.0619,United States,USA,NA,XFERNET,AS27630
+139,ACKP,Generic,AKCP Embedded Web Server,204.77.164.124,Great Plains Communications,Columbus,-97.347,41.512,United States,USA,Windows 7 or 8,Great Plains Communications,AS13807
+140,ACKP,Generic,AKCP Embedded Web Server,62.232.194.197,Daisy Communications Ltd,Weston-super-mare,-2.96780000000001,51.3458,United Kingdom,GBR,NA,Daisy Communications Ltd,AS5413
+141,ACKP,Generic,AKCP Embedded Web Server,206.75.213.12,Telus Communications,NA,-79.3716,43.6319,Canada,CAN,NA,WorldGate,AS6171
+142,ACKP,Generic,AKCP Embedded Web Server,59.125.27.10,HiNet,Beinan,121.1228,22.781,Taiwan,TWN,NA,HiNet,AS3462
+143,ACKP,Generic,AKCP Embedded Web Server,59.125.27.192,HiNet,Beinan,121.1228,22.781,Taiwan,TWN,NA,HiNet,AS3462
+144,ACKP,Generic,AKCP Embedded Web Server,128.39.64.38,UNINETT AS,Kristiansand,7.9974,58.1496,Norway,NOR,NA,UNINETT AS,AS224
+145,ACKP,Generic,AKCP Embedded Web Server,59.125.27.190,HiNet,Beinan,121.1228,22.781,Taiwan,TWN,NA,HiNet,AS3462
+146,ACKP,Generic,AKCP Embedded Web Server,193.192.241.7,Sunrise Communications AG,NA,8.1551,47.1449,Switzerland,CHE,NA,Sunrise Communications AG,AS6730
+147,ACKP,Generic,AKCP Embedded Web Server,73.209.97.167,Comcast Cable,Oak Lawn,-87.7596,41.7091,United States,USA,NA,Comcast Cable,AS7922
+148,ACKP,Generic,AKCP Embedded Web Server,173.226.237.137,tw telecom holdings,West Orange,-74.264,40.7919,United States,USA,NA,tw telecom holdings,AS3549
+149,ACKP,Generic,AKCP Embedded Web Server,81.194.43.56,Renater,Paris,2.32919999999999,48.8628,France,FRA,Windows 7 or 8,Universite Paris,AS2200
+150,ACKP,Generic,AKCP Embedded Web Server,220.128.233.13,HiNet,Hsinchu,120.9686,24.8036,Taiwan,TWN,NA,HiNet,AS3462
+151,ACKP,Generic,AKCP Embedded Web Server,128.39.64.37,UNINETT AS,Kristiansand,7.9974,58.1496,Norway,NOR,Windows 7 or 8,UNINETT AS,AS224
+152,ACKP,Generic,AKCP Embedded Web Server,198.40.44.34,Tomales Bay LAN, LLC,Point Reyes Station,-122.862,38.0738,United States,USA,NA,Tomales Bay LAN, LLC,AS53641
+153,ACKP,Generic,AKCP Embedded Web Server,62.48.32.12,Playnet S.R.L.,Florence,11.2463,43.7793,Italy,ITA,NA,Playnet S.R.L.,AS13284
+154,ACKP,Generic,AKCP Embedded Web Server,61.221.120.247,HiNet,NA,121,23.5,Taiwan,TWN,NA,HiNet,AS3462
+155,ACKP,Generic,AKCP Embedded Web Server,128.39.64.30,UNINETT AS,Kristiansand,7.9974,58.1496,Norway,NOR,Windows 7 or 8,UNINETT AS,AS224
+156,ACKP,Generic,AKCP Embedded Web Server,128.39.64.43,UNINETT AS,Kristiansand,7.9974,58.1496,Norway,NOR,NA,UNINETT AS,AS224
+157,ACKP,Generic,AKCP Embedded Web Server,37.84.194.233,Deutsche Telekom AG,NA,9.49100000000001,51.2993,Germany,DEU,NA,Deutsche Telekom AG,AS3320
+158,ACKP,Generic,AKCP Embedded Web Server,157.157.222.205,Siminn,Höfn,-15.2121,64.2539,Iceland,ISL,NA,Siminn,AS6677
+159,ACKP,Generic,AKCP Embedded Web Server,80.13.203.224,Orange,NA,2.33869999999999,48.8582,France,FRA,NA,Orange,AS3215
+160,ACKP,Generic,AKCP Embedded Web Server,193.206.170.129,Consortium GARR,Caravate,8.65430000000001,45.8786,Italy,ITA,NA,Consortium GARR,AS137
+161,ACKP,Generic,AKCP Embedded Web Server,72.46.218.234,Ets Telephone Company,Sugar Land,-95.6335,29.5557,United States,USA,NA,enTouch,AS12177
+162,ACKP,Generic,AKCP Embedded Web Server,12.202.204.105,AT&T Services,Murfreesboro,-86.421,35.8596,United States,USA,NA,AT&T Services,AS7018
+163,ACKP,Generic,AKCP Embedded Web Server,80.56.80.202,Ziggo,Hellevoetsluis,4.14830000000001,51.8273,Netherlands,NLD,NA,UPC NL,AS6830
+164,ACKP,Generic,AKCP Embedded Web Server,213.115.5.147,Bredbandsbolaget AB,Göteborg,11.9667,57.7167,Sweden,SWE,NA,Bredbandsbolaget AB,AS2119
+165,ACKP,Generic,AKCP Embedded Web Server,60.249.79.159,HiNet,NA,121,23.5,Taiwan,TWN,NA,HiNet,AS3462
+166,ACKP,Generic,AKCP Embedded Web Server,212.203.52.82,Leunet AG,Frauenfeld,8.8989,47.5578,Switzerland,CHE,NA,Leunet AG Frauenfeld,AS25375
+167,ACKP,Generic,AKCP Embedded Web Server,220.128.233.13,HiNet,Hsinchu,120.9686,24.8036,Taiwan,TWN,NA,HiNet,AS3462
+168,Allen-Bradley,Generic,Allen-Bradley,91.149.55.30,Netett Sverige AB,NA,10.75,59.95,Norway,NOR,NA,Nordisk Mobiltelefon Norway A/S,AS2116
+169,Allen-Bradley,Generic,Allen-Bradley,99.2.140.14,AT&T U-verse,Smyrna,-86.542,35.9593,United States,USA,NA,AT&T U-verse,AS7018
+170,Allen-Bradley,Generic,Allen-Bradley,66.172.203.59,Long Lines Internet,South Sioux City,-96.4535,42.4555,United States,USA,NA,Long Lines Internet,AS32867
+171,Allen-Bradley,Generic,Allen-Bradley,166.219.226.165,AT&T Wireless,NA,-97.822,37.751,United States,USA,NA,AT&T Wireless,AS20057
+172,Allen-Bradley,Generic,Allen-Bradley,166.168.48.248,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+173,Allen-Bradley,Generic,Allen-Bradley,166.141.1.56,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+174,Allen-Bradley,Generic,Allen-Bradley,96.1.104.60,Telus Mobility,Carstairs,-114.1,51.5333,Canada,CAN,NA,Telus Mobility,AS852
+175,Allen-Bradley,Generic,Allen-Bradley,166.247.38.117,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+176,Allen-Bradley,Generic,Allen-Bradley,65.70.0.246,AT&T Internet Services,NA,-97.822,37.751,United States,USA,NA,AT&T Internet Services,AS7018
+177,Allen-Bradley,Generic,Allen-Bradley,209.52.48.155,Telus Communications,NA,-79.3716,43.6319,Canada,CAN,NA,Telus Communications,AS852
+178,Allen-Bradley,Generic,Allen-Bradley,79.136.43.236,Bahnhof Internet AB,Stockholm,18.05,59.3333,Sweden,SWE,NA,Bahnhof Internet AB,AS8473
+179,Allen-Bradley,Generic,Allen-Bradley,166.130.51.119,AT&T Wireless,Atlanta,-84.388,33.749,United States,USA,NA,AT&T Wireless,AS20057
+180,Allen-Bradley,Generic,Allen-Bradley,83.56.43.70,Telefonica de Espana Static IP,Arroyomolinos,-3.9195,40.2695,Spain,ESP,NA,Telefonica de Espana Static IP,AS3352
+181,Allen-Bradley,Generic,Allen-Bradley,50.122.92.210,Frontier Communications,Kingston,-88.7629,42.1066,United States,USA,NA,Frontier Communications,AS5650
+182,Allen-Bradley,Generic,Allen-Bradley,166.166.63.142,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+183,Allen-Bradley,Generic,Allen-Bradley,91.149.55.29,Netett Sverige AB,NA,10.75,59.95,Norway,NOR,NA,Nordisk Mobiltelefon Norway A/S,AS2116
+184,Allen-Bradley,Generic,Allen-Bradley,166.142.80.147,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+185,Allen-Bradley,Generic,Allen-Bradley,70.88.73.105,Comcast Cable,NA,-97.822,37.751,United States,USA,NA,Comcast Business,AS7922
+186,Allen-Bradley,Generic,Allen-Bradley,24.39.223.70,Time Warner Cable,Valatie,-73.6564,42.4076,United States,USA,NA,Time Warner Cable,AS11351
+187,Allen-Bradley,Generic,Allen-Bradley,166.155.68.24,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+188,Allen-Bradley,Generic,Allen-Bradley,131.128.105.24,University of Rhode Island,Kingston,-71.5208,41.4773,United States,USA,NA,University of Rhode Island,AS14348
+189,Allen-Bradley,Generic,Allen-Bradley,166.152.32.51,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+190,Allen-Bradley,Generic,Allen-Bradley,67.217.133.172,Business Only Broadband,Westmont,-87.9709,41.7949,United States,USA,NA,Business Only Broadband,AS30373
+191,Allen-Bradley,Generic,Allen-Bradley,82.155.107.204,MEO,Sardoal,-8.16139999999999,39.536,Portugal,PRT,NA,MEO,AS3243
+192,Allen-Bradley,Generic,Allen-Bradley,166.142.200.165,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+193,Allen-Bradley,Generic,Allen-Bradley,166.246.243.53,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+194,Allen-Bradley,Generic,Allen-Bradley,72.46.180.106,Premier Communications,Spirit Lake,-95.0932,43.4216,United States,USA,NA,Premier Communications,AS53347
+195,Allen-Bradley,Generic,Allen-Bradley,129.89.50.24,University of Wisconsin - Milwaukee,Milwaukee,-87.9065,43.0389,United States,USA,NA,University of Wisconsin - Milwaukee,AS7050
+196,Allen-Bradley,Generic,Allen-Bradley,67.219.174.54,Panhandle Telecommunications Systems,Beaver,-100.4768,36.7474,United States,USA,NA,Panhandle Telecommunications Systems,AS11067
+197,Allen-Bradley,Generic,Allen-Bradley,199.167.141.93,Kore Wireless Pty,Toronto,-79.5767,43.6437,Canada,CAN,NA,Kore Wireless Pty,AS19271
+198,Allen-Bradley,Generic,Allen-Bradley,2.194.1.180,Telecom Italia Mobile,Agrigento,13.5766,37.3107,Italy,ITA,NA,Telecom Italia Mobile,AS16232
+199,Allen-Bradley,Generic,Allen-Bradley,146.57.46.195,University of Minnesota,Morris,-95.9544,45.586,United States,USA,NA,University of Minnesota,AS217
+200,Allen-Bradley,Generic,Allen-Bradley,173.181.142.235,Telus Mobility,Edmonton,-113.5785,53.4179,Canada,CAN,NA,Telus Mobility,AS852
+201,Allen-Bradley,Generic,Allen-Bradley,193.192.193.32,Wirelesslogic Ltd,Malvern,-2.3272,52.0951,United Kingdom,GBR,NA,Wirelesslogic Ltd,AS51320
+202,Allen-Bradley,Generic,Allen-Bradley,199.167.142.182,Kore Wireless Pty,Toronto,-79.5767,43.6437,Canada,CAN,NA,Kore Wireless Pty,AS19271
+203,Allen-Bradley,Generic,Allen-Bradley,138.117.51.240,Quasar Internet,San Carlos De Bariloche,-71.2917,-41.1333,Argentina,ARG,NA,Quasar Internet,AS263757
+204,Allen-Bradley,Generic,Allen-Bradley,129.130.21.141,Kansas State University,Manhattan,-96.5246,39.1023,United States,USA,NA,Kansas State University,AS2701
+205,Allen-Bradley,Generic,Allen-Bradley,143.116.86.4,SCI Technology,Huntsville,-86.5859,34.7304,United States,USA,NA,Sanmina-SCI Corporation,AS23154
+206,Allen-Bradley,Generic,Allen-Bradley,64.19.102.37,Dobson Technologies - Transport and Telecom Soluti,Shawnee,-96.9398,35.3981,United States,USA,NA,Dobson Technologies - Transport and Telecom Soluti,AS30029
+207,Allen-Bradley,Generic,Allen-Bradley,81.149.103.34,BT,NA,-0.122399999999999,51.4964,United Kingdom,GBR,NA,BT,AS2856
+208,Allen-Bradley,Generic,Allen-Bradley,24.149.10.76,The Municipal Communications Utility of the City o,Cedar Falls,-92.5169,42.5174,United States,USA,NA,The Municipal Communications Utility of the City o,AS13855
+209,Allen-Bradley,Generic,Allen-Bradley,212.73.45.36,Vodafone Spain,NA,-3.684,40.4172,Spain,ESP,NA,Vodafone Spain,AS12430
+210,Allen-Bradley,Generic,Allen-Bradley,193.220.194.106,Marlink Enterprise AS,NA,4.89949999999999,52.3824,Netherlands,NLD,NA,MSS Mobile,AS44933
+211,Allen-Bradley,Generic,Allen-Bradley,142.46.240.78,Brantford Hydro,Waterford,-80.5572,42.6618,Canada,CAN,NA,Brantford Hydro,AS19752
+212,Allen-Bradley,Generic,Allen-Bradley,24.225.9.134,Rural Telephone Service Co,Phillipsburg,-99.3117,39.7847,United States,USA,NA,Rural Telephone Service Co,AS14155
+213,Allen-Bradley,Generic,Allen-Bradley,24.106.127.35,Time Warner Cable,Columbus,-83.0444,39.9881,United States,USA,NA,Time Warner Cable,AS10796
+214,Allen-Bradley,Generic,Allen-Bradley,142.55.112.25,Sheridan College,Oakville,-79.7098,43.4881,Canada,CAN,NA,Sheridan College,AS5664
+215,Allen-Bradley,Generic,Allen-Bradley,142.55.112.22,Sheridan College,Oakville,-79.7098,43.4881,Canada,CAN,NA,Sheridan College,AS5664
+216,Allen-Bradley,Generic,Allen-Bradley,166.166.93.161,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+217,Allen-Bradley,Generic,Allen-Bradley,157.157.218.95,Siminn,Kópavogur,-21.8749,64.099,Iceland,ISL,NA,Siminn,AS6677
+218,Allen-Bradley,Generic,Allen-Bradley,166.155.225.186,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+219,Allen-Bradley,Generic,Allen-Bradley,166.145.90.227,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+220,Allen-Bradley,Generic,Allen-Bradley,146.57.176.111,University of Minnesota,Oklee,-95.8279,47.934,United States,USA,NA,University of Minnesota,AS217
+221,Allen-Bradley,Generic,Allen-Bradley,129.89.50.26,University of Wisconsin - Milwaukee,Milwaukee,-87.9065,43.0389,United States,USA,NA,University of Wisconsin - Milwaukee,AS7050
+222,Allen-Bradley,Generic,Allen-Bradley,166.130.131.168,AT&T Wireless,Atlanta,-84.388,33.749,United States,USA,NA,AT&T Wireless,AS20057
+223,Allen-Bradley,Generic,Allen-Bradley,166.156.10.158,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+224,Allen-Bradley,Generic,Allen-Bradley,74.221.37.49,Long Lines Internet,Le Mars,-96.2132,42.7809,United States,USA,NA,Long Lines Internet,AS32867
+225,Allen-Bradley,Generic,Allen-Bradley,143.116.86.5,SCI Technology,Huntsville,-86.5859,34.7304,United States,USA,NA,Sanmina-SCI Corporation,AS23154
+226,Allen-Bradley,Generic,Allen-Bradley,166.239.207.62,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+227,Allen-Bradley,Generic,Allen-Bradley,184.1.191.5,CenturyLink,Greenville,-77.3008,35.5235,United States,USA,NA,CenturyLink,AS209
+228,Allen-Bradley,Generic,Allen-Bradley,96.94.121.177,Comcast Cable,Pittsburgh,-79.977,40.4426,United States,USA,NA,Comcast Business,AS7922
+229,Allen-Bradley,Generic,Allen-Bradley,50.75.67.51,Time Warner Cable,Geneva,-77.0251,42.8563,United States,USA,NA,Time Warner Cable,AS11351
+230,Allen-Bradley,Generic,Allen-Bradley,73.32.1.171,Comcast Cable,Houston,-95.1462,29.839,United States,USA,NA,Comcast Cable,AS7922
+231,Allen-Bradley,Generic,Allen-Bradley,192.237.29.239,Region of Waterloo,Kitchener,-80.4891,43.4443,Canada,CAN,NA,Rogers Cable,AS812
+232,Allen-Bradley,Generic,Allen-Bradley,199.167.142.186,Kore Wireless Pty,Toronto,-79.5767,43.6437,Canada,CAN,NA,Kore Wireless Pty,AS19271
+233,Allen-Bradley,Generic,Allen-Bradley,208.71.32.204,Infobunker, L.L.C.,Story City,-93.6295,42.1943,United States,USA,NA,Infobunker, L.L.C.,AS36436
+234,Allen-Bradley,Generic,Allen-Bradley,166.168.111.150,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+235,Allen-Bradley,Generic,Allen-Bradley,72.142.164.227,Rogers Cable,Toronto,-79.4204,43.6655,Canada,CAN,NA,Rogers Cable,AS20453
+236,Allen-Bradley,Generic,Allen-Bradley,2.196.99.27,Telecom Italia Mobile,NA,12.1097,43.1479,Italy,ITA,NA,Telecom Italia Mobile,AS16232
+237,Allen-Bradley,Generic,Allen-Bradley,166.130.114.115,AT&T Wireless,Atlanta,-84.388,33.749,United States,USA,NA,AT&T Wireless,AS20057
+238,Allen-Bradley,Generic,Allen-Bradley,129.44.203.227,Verizon Business,NA,-97.822,37.751,United States,USA,NA,Verizon Business,AS701
+239,Allen-Bradley,Generic,Allen-Bradley,199.167.142.180,Kore Wireless Pty,Toronto,-79.5767,43.6437,Canada,CAN,NA,Kore Wireless Pty,AS19271
+240,Allen-Bradley,Generic,Allen-Bradley,166.249.65.25,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+241,Allen-Bradley,Generic,Allen-Bradley,50.121.233.158,Frontier Communications,Oakvale,-80.9626,37.3343,United States,USA,NA,Frontier Communications,AS5650
+242,Allen-Bradley,Generic,Allen-Bradley,129.21.187.67,Rochester Institute of Technology,Rochester,-77.6376,43.0899,United States,USA,NA,Rochester Institute of Technology,AS4385
+243,Allen-Bradley,Generic,Allen-Bradley,129.130.21.142,Kansas State University,Manhattan,-96.5246,39.1023,United States,USA,NA,Kansas State University,AS2701
+244,Allen-Bradley,Generic,Allen-Bradley,129.133.8.75,Wesleyan University,Middletown,-72.6506,41.5623,United States,USA,NA,Wesleyan University,AS167
+245,Allen-Bradley,Generic,Allen-Bradley,74.220.229.13,WorldPath Internet Services,Rochester,-70.9756,43.3045,United States,USA,NA,WorldPath Internet Services,AS21547
+246,Allen-Bradley,Generic,Allen-Bradley,69.41.134.90,Pend Oreille Valley Network,Newport,-117.2403,48.1554,United States,USA,NA,Pend Oreille Valley Network,AS29774
+247,Allen-Bradley,Generic,Allen-Bradley,166.251.165.143,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+248,Allen-Bradley,Generic,Allen-Bradley,173.182.9.84,Telus Communications,NA,-79.3716,43.6319,Canada,CAN,NA,Telus Communications,AS852
+249,Allen-Bradley,Generic,Allen-Bradley,71.83.141.70,Spectrum,Mojave,-118.1302,35.0979,United States,USA,NA,Spectrum,AS20115
+250,Allen-Bradley,Generic,Allen-Bradley,166.161.3.206,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+251,Allen-Bradley,Generic,Allen-Bradley,119.75.21.75,Singtel Enterprise,Singapore,103.8558,1.29310000000001,Singapore,SGP,NA,SingNet Pte Ltd,AS3758
+252,Allen-Bradley,Generic,Allen-Bradley,190.139.41.182,Telecom Argentina S.A.,Victoria,-60.1548,-32.6184,Argentina,ARG,NA,Telecom Argentina S.A.,AS7303
+253,Allen-Bradley,Generic,Allen-Bradley,166.161.163.7,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+254,Allen-Bradley,Generic,Allen-Bradley,129.89.50.39,University of Wisconsin - Milwaukee,Milwaukee,-87.9065,43.0389,United States,USA,NA,University of Wisconsin - Milwaukee,AS7050
+255,Allen-Bradley,Generic,Allen-Bradley,60.237.173.142,Biglobe,Chiba,140.1233,35.6047,Japan,JPN,NA,Biglobe,AS2518
+256,Allen-Bradley,Generic,Allen-Bradley,104.50.236.208,AT&T U-verse,Sullivans Island,-79.8396,32.7659,United States,USA,NA,AT&T U-verse,AS7018
+257,Allen-Bradley,Generic,Allen-Bradley,59.120.82.43,HiNet,Taichung,120.6839,24.1469,Taiwan,TWN,NA,HiNet,AS3462
+258,Allen-Bradley,Generic,Allen-Bradley,166.139.102.223,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+259,Allen-Bradley,Generic,Allen-Bradley,206.75.47.138,Telus Communications,Canmore,-115.3461,51.0876,Canada,CAN,NA,Telus Communications,AS852
+260,Allen-Bradley,Generic,Allen-Bradley,76.70.8.87,Bell Canada,Mississauga,-79.6164,43.5419,Canada,CAN,NA,Bell Canada,AS577
+261,Allen-Bradley,Generic,Allen-Bradley,58.19.204.21,China Unicom HuBei,Wuhan,114.2734,30.5801,China,CHN,NA,China Unicom HuBei,AS4837
+262,Allen-Bradley,Generic,Allen-Bradley,70.186.236.43,Cox Communications,Bentonville,-94.2514,36.3457,United States,USA,NA,Cox Communications,AS22773
+263,Allen-Bradley,Generic,Allen-Bradley,107.85.58.144,AT&T Wireless,NA,-97.822,37.751,United States,USA,NA,AT&T Wireless,AS20057
+264,Allen-Bradley,Generic,Allen-Bradley,166.139.174.253,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+265,Allen-Bradley,Generic,Allen-Bradley,63.64.47.125,Verizon Business,Bonners Ferry,-116.511,48.7581,United States,USA,NA,E.L. Internet Northwest,AS23263
+266,Allen-Bradley,Generic,Allen-Bradley,72.34.97.54,Race Technologies,Tehachapi,-118.511,35.1293,United States,USA,NA,Race Technologies,AS30041
+267,Allen-Bradley,Generic,Allen-Bradley,166.247.33.196,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+268,BroadWeb,Generic,BroadWeb,106.120.81.92,China Telecom Guangdong,Beijing,116.3883,39.9289,China,CHN,NA,China Telecom Beijing,AS4847
+269,BroadWeb,Generic,BroadWeb,131.94.128.198,Florida International University,Miami,-80.4582,25.5584,United States,USA,NA,Florida International University,AS3681
+270,BroadWeb,Generic,BroadWeb,60.249.201.138,HiNet,Kaohsiung,120.3133,22.6163,Taiwan,TWN,NA,HiNet,AS3462
+271,BroadWeb,Generic,BroadWeb,58.56.141.118,China Telecom Shandong,Qingdao,120.3719,36.0986,China,CHN,NA,China Telecom Shandong,AS4134
+272,BroadWeb,Generic,BroadWeb,140.117.65.10,Taiwan Academic Network (TANet) Information Center,NA,121,23.5,Taiwan,TWN,NA,National Sun Yat-sen University,AS17713
+273,BroadWeb,Generic,BroadWeb,60.248.45.235,HiNet,Tainan,120.2133,22.9908,Taiwan,TWN,NA,HiNet,AS3462
+274,BroadWeb,Generic,BroadWeb,222.73.111.249,China Telecom Shanghai,Shanghai,121.3997,31.0456,China,CHN,NA,China Telecom Shanghai,AS4812
+275,BroadWeb,Generic,BroadWeb,181.129.146.74,UNE,Barranquilla,-74.7813,10.9685,Colombia,COL,NA,UNE,AS13489
+276,BroadWeb,Generic,BroadWeb,120.78.230.24,Aliyun Computing Co.,Hangzhou,120.1614,30.2936,China,CHN,NA,Hangzhou Alibaba Advertising Co.,Ltd.,AS37963
+277,BroadWeb,Generic,BroadWeb,110.54.126.187,QTNet,Sasebo,129.7228,33.1592,Japan,JPN,NA,QTNet,AS7679
+278,BroadWeb,Generic,BroadWeb,123.240.224.28,TBC,Taipei,121.5318,25.0478,Taiwan,TWN,NA,TBC,AS131596
+279,BroadWeb,Generic,BroadWeb,180.76.176.35,Beijing Baidu Netcom Science and Technology Co.,Beijing,116.3883,39.9289,China,CHN,NA,Beijing Baidu Netcom Science and Technology Co.,AS38365
+280,BroadWeb,Generic,BroadWeb,220.132.217.34,HiNet,Taichung,120.6839,24.1469,Taiwan,TWN,NA,HiNet,AS3462
+281,BroadWeb,Generic,BroadWeb,150.138.164.141,China Telecom Shandong,Jinan,116.9972,36.6683,China,CHN,NA,Xiangtan,AS58541
+282,BroadWeb,Generic,BroadWeb,58.137.218.6,CS LoxInfo,NA,100.4667,13.75,Thailand,THA,NA,Suan Sunandha Rajabhat University,AS4750
+283,BroadWeb,Generic,BroadWeb,123.240.34.181,TBC,Taipei,121.5318,25.0478,Taiwan,TWN,NA,TBC,AS131596
+284,BroadWeb,Generic,BroadWeb,52.187.27.31,Microsoft Corporation,Singapore,103.8558,1.29310000000001,Singapore,SGP,NA,Microsoft Azure,AS8075
+285,BroadWeb,Generic,BroadWeb,61.222.103.5,HiNet,Taipei,121.5318,25.0478,Taiwan,TWN,NA,HiNet,AS3462
+286,BroadWeb,Generic,BroadWeb,218.97.3.107,China Network Information Center,Beijing,116.3883,39.9289,China,CHN,NA,China Enterprise Communications,AS10212
+287,BroadWeb,Generic,BroadWeb,13.114.243.215,Amazon Data Services Japan,Tokyo,139.7514,35.685,Japan,JPN,NA,Amazon Data Services Japan,AS16509
+288,BroadWeb,Generic,BroadWeb,140.120.25.193,Taiwan Academic Network (TANet) Information Center,NA,121,23.5,Taiwan,TWN,NA,National Chung Hsing University,AS38847
+289,BroadWeb,Generic,BroadWeb,124.9.8.231,Taiwan Fixed Network,Taipei,121.5318,25.0478,Taiwan,TWN,NA,Taiwan Fixed Network,AS9924
+290,BroadWeb,Generic,BroadWeb,123.240.34.103,TBC,Taipei,121.5318,25.0478,Taiwan,TWN,NA,TBC,AS131596
+291,BroadWeb,Generic,BroadWeb,147.229.159.108,Brno University of Technology,Brno,16.6333,49.2,Czech Republic,CZE,NA,Brno University of Technology,AS197451
+292,General Electric,Cimplicity,CIMPLICITY-HttpSvr,61.60.17.213,HiNet,Taipei,121.5318,25.0478,Taiwan,TWN,NA,Government Service Network (GSN),AS4782
+293,General Electric,Cimplicity,CIMPLICITY-HttpSvr,80.120.153.172,Telekom Austria,NA,16.3667,48.2,Austria,AUT,NA,Telekom Austria,AS8447
+294,General Electric,Cimplicity,CIMPLICITY-HttpSvr,195.70.14.237,DFI Service SA,NA,8.1551,47.1449,Switzerland,CHE,NA,DFI Service SA,AS12333
+295,General Electric,Cimplicity,CIMPLICITY-HttpSvr,220.94.118.161,Korea Telecom,Daegu,128.5911,35.8703,Korea, Republic of,KOR,NA,Korea Telecom,AS4766
+296,General Electric,Cimplicity,CIMPLICITY-HttpSvr,79.188.201.155,Orange Polska,Strzelce Krajenskie,15.5031,52.9065,Poland,POL,NA,Orange Polska,AS5617
+297,General Electric,Cimplicity,CIMPLICITY-HttpSvr,83.16.77.203,Orange Polska,NA,21.0362,52.2394,Poland,POL,NA,Orange Polska,AS5617
+298,General Electric,Cimplicity,CIMPLICITY-HttpSvr,83.16.77.200,Orange Polska,NA,21.0362,52.2394,Poland,POL,NA,Orange Polska,AS5617
+299,General Electric,Cimplicity,CIMPLICITY-HttpSvr,83.16.77.201,Orange Polska,NA,21.0362,52.2394,Poland,POL,NA,Orange Polska,AS5617
+300,General Electric,Cimplicity,CIMPLICITY-HttpSvr,210.61.231.90,HiNet,NA,121,23.5,Taiwan,TWN,NA,HiNet,AS3462
+301,General Electric,Cimplicity,CIMPLICITY-HttpSvr,195.175.86.150,Turk Telekom,Istanbul,28.9647,41.0186,Turkey,TUR,NA,Turk Telekom,AS9121
+302,General Electric,Cimplicity,CIMPLICITY-HttpSvr,83.16.77.202,Orange Polska,NA,21.0362,52.2394,Poland,POL,NA,Orange Polska,AS5617
+303,General Electric,Cimplicity,CIMPLICITY-HttpSvr,221.152.182.252,Korea Telecom,NA,126.9741,37.5112,Korea, Republic of,KOR,NA,Korea Telecom,AS4766
+304,General Electric,Cimplicity,CIMPLICITY-HttpSvr,194.78.90.20,Skynet Belgium,Turnhout,4.94999999999999,51.3167,Belgium,BEL,NA,Skynet Belgium,AS5432
+305,General Electric,Cimplicity,CIMPLICITY-HttpSvr,77.76.174.160,Vida optics TVV Ltd.,Aprilzi,24.2833,42.3167,Bulgaria,BGR,NA,Vida optics TVV Ltd.,AS34295
+306,General Electric,Cimplicity,CIMPLICITY-HttpSvr,217.196.28.250,JSC Kaztranscom,NA,68,48,Kazakhstan,KAZ,NA,JSC Kaztranscom,AS35104
+307,General Electric,Cimplicity,CIMPLICITY-HttpSvr,130.160.230.32,The University of Alabama,Tuscaloosa,-87.5859,33.3072,United States,USA,NA,The University of Alabama,AS12173
+308,General Electric,Cimplicity,CIMPLICITY-HttpSvr,79.9.239.2,Telecom Italia Business,Bussero,9.37200000000001,45.5341,Italy,ITA,NA,Telecom Italia Business,AS3269
+309,General Electric,Cimplicity,CIMPLICITY-HttpSvr,69.167.236.35,Jackson Energy Authority,Jackson,-88.7021,35.7125,United States,USA,NA,Jackson Energy Authority,AS53435
+310,General Electric,Cimplicity,CIMPLICITY-HttpSvr,89.230.79.64,Multimedia Polska S.A.,Chmielnik,22.1353,49.9771,Poland,POL,NA,Multimedia Polska S. A.,AS21021
+311,General Electric,Cimplicity,CIMPLICITY-HttpSvr,94.56.217.226,Emirates Telecommunications Corporation,NA,54,24,United Arab Emirates,ARE,NA,Emirates Telecommunications Corporation,AS5384
+312,General Electric,Cimplicity,CIMPLICITY-HttpSvr,123.63.194.69,Vodafone Mobile Services,Chennai,80.2833,13.0833,India,IND,NA,Vodafone India,AS55410
+313,General Electric,Cimplicity,CIMPLICITY-HttpSvr,80.206.215.132,Telecom Italia Business,NA,12.1097,43.1479,Italy,ITA,NA,Telecom Italia Business,AS20959
+314,General Electric,Cimplicity,CIMPLICITY-HttpSvr,80.90.12.22,SIA Datagrupa.lv,NA,25,57,Latvia,LVA,NA,Sia demvar,AS21156
+315,General Electric,Cimplicity,CIMPLICITY-HttpSvr,71.245.156.153,Verizon Internet Services,Castleton On Hudson,-73.7042,42.5325,United States,USA,NA,Verizon Internet Services,AS701
+316,General Electric,Cimplicity,CIMPLICITY-HttpSvr,94.246.188.13,ART-COM Sp. z o.o.,Jaworzno,19.2701,50.206,Poland,POL,NA,ART-COM Sp. z o.o.,AS33923
+317,General Electric,Cimplicity,CIMPLICITY-HttpSvr,12.49.161.27,AT&T Services,NA,-97.822,37.751,United States,USA,NA,City Of Ripley,AS7018
+318,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,130.166.15.13,California State University, Northridge,Northridge,-118.5193,34.2346,United States,USA,NA,California State University, Northridge,AS2152
+319,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,96.84.198.50,Comcast Cable,New Britain,-72.7907,41.6903,United States,USA,NA,Comcast Business,AS7922
+320,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,74.142.228.147,Time Warner Cable,Columbus,-82.8695,40.0345,United States,USA,NA,Time Warner Cable,AS10796
+321,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,142.227.161.31,Canadian Department of Education,Berwick,-64.6566,45.0328,Canada,CAN,NA,Canadian Department of Education,AS23307
+322,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,209.152.90.4,Aureon Network Services,Fort Dodge,-94.2254,42.4488,United States,USA,NA,Aureon Network Services,AS5056
+323,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,209.152.90.3,Aureon Network Services,Fort Dodge,-94.2254,42.4488,United States,USA,NA,Aureon Network Services,AS5056
+324,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,96.84.198.82,Comcast Cable,New Britain,-72.7907,41.6903,United States,USA,NA,Comcast Business,AS7922
+325,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,96.84.198.18,Comcast Cable,New Britain,-72.7907,41.6903,United States,USA,NA,Comcast Business,AS7922
+326,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,216.3.136.32,Verizon Business,Chicago,-87.6757,41.9038,United States,USA,NA,McDonald's Corporation,AS18784
+327,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,140.142.100.7,University of Washington,Seattle,-122.3715,47.6381,United States,USA,NA,University of Washington,AS73
+328,Cimetrics,Eplus � BIP to BWS Gateway Firewall,Cimetrics Eplus Web Server,209.152.90.5,Aureon Network Services,Fort Dodge,-94.2254,42.4488,United States,USA,NA,Aureon Network Services,AS5056
+329,Schneider Electric,Generic,ClearSCADA,96.63.141.12,Access Communications Co-operative Limited,Estevan,-102.9842,49.1334,Canada,CAN,NA,Access Communications,AS21804
+330,Schneider Electric,Generic,ClearSCADA,96.45.14.6,Eastern Irrigation District,Brooks,-111.8851,50.5834,Canada,CAN,NA,Eastern Irrigation District,AS2735
+331,Schneider Electric,Generic,ClearSCADA,71.96.42.107,Verizon Internet Services,Fort Worth,-97.288,32.8524,United States,USA,NA,Frontier Communications,AS5650
+332,Schneider Electric,Generic,ClearSCADA,84.243.199.167,Voiceworks BV,NA,4.89949999999999,52.3824,Netherlands,NLD,NA,Voiceworks BV,AS39647
+333,Schneider Electric,Generic,ClearSCADA,188.134.242.48,COMA s.r.o.,Svitavy,16.4667,49.6667,Czech Republic,CZE,NA,COMA s.r.o.,AS15425
+334,Schneider Electric,Generic,ClearSCADA,217.16.185.151,VSHosting s.r.o.,NA,14.4112,50.0848,Czech Republic,CZE,NA,VSHosting s.r.o.,AS43541
+335,Schneider Electric,Generic,ClearSCADA,124.66.154.50,Singtel Enterprise,Singapore,103.8558,1.29310000000001,Singapore,SGP,NA,SingNet Pte Ltd,AS3758
+336,Schneider Electric,Generic,ClearSCADA,173.239.110.25,HostMySite,Denver,-104.8847,39.6929,United States,USA,NA,HostMySite,AS20021
+337,Schneider Electric,Generic,ClearSCADA,173.181.131.163,Telus Mobility,Edmonton,-113.5785,53.4179,Canada,CAN,NA,Telus Mobility,AS852
+338,Schneider Electric,Generic,ClearSCADA,67.213.235.63,UBTANET,Roosevelt,-110.0487,40.3847,United States,USA,NA,UBTANET,AS30432
+339,Schneider Electric,Generic,ClearSCADA,50.73.33.153,Comcast Cable,Draper,-111.8436,40.4982,United States,USA,NA,Comcast Business,AS7922
+340,Schneider Electric,Generic,ClearSCADA,173.71.30.108,Verizon Internet Services,Justin,-97.3118,33.0945,United States,USA,NA,Frontier Communications,AS5650
+341,Schneider Electric,Generic,ClearSCADA,12.30.186.60,AT&T Services,Benton,-93.6414,32.7132,United States,USA,NA,AT&T Services,AS7018
+342,Schneider Electric,Generic,ClearSCADA,209.213.172.21,Double Dog Communications,Wellsville,-76.9322,40.0593,United States,USA,NA,Double Dog Communications,AS14686
+343,Schneider Electric,Generic,ClearSCADA,217.16.185.150,VSHosting s.r.o.,NA,14.4112,50.0848,Czech Republic,CZE,NA,VSHosting s.r.o.,AS43541
+344,Schneider Electric,Generic,ClearSCADA,24.173.105.134,Time Warner Cable,San Antonio,-98.5735,29.4616,United States,USA,NA,Time Warner Cable,AS11427
+345,Schneider Electric,Generic,ClearSCADA,212.220.56.243,Rostelecom,NA,37.6068,55.7386,Russian Federation,RUS,NA,Rostelecom,AS12389
+346,Schneider Electric,Generic,ClearSCADA,104.238.171.93,Choopa, LLC,London,-0.0930999999999926,51.5142,United Kingdom,GBR,NA,Choopa, LLC,AS20473
+347,Schneider Electric,Generic,ClearSCADA,66.111.114.57,Emery Telcom,Moab,-109.6027,38.4506,United States,USA,NA,Emery Telcom,AS36728
+348,Schneider Electric,Generic,ClearSCADA,173.181.141.57,Telus Mobility,Edmonton,-113.5785,53.4179,Canada,CAN,NA,Telus Mobility,AS852
+349,Schneider Electric,Generic,ClearSCADA,205.206.64.218,Telus Communications,Red Deer,-113.8073,52.2954,Canada,CAN,NA,Telus Communications,AS852
+350,Schneider Electric,Generic,ClearSCADA,173.185.171.116,Windstream Communications,Hobbs,-103.1478,32.82,United States,USA,Windows 7 or 8,Windstream Communications,AS7029
+351,Schneider Electric,Generic,ClearSCADA,24.173.105.132,Time Warner Cable,San Antonio,-98.5735,29.4616,United States,USA,NA,Time Warner Cable,AS11427
+352,Schneider Electric,Generic,ClearSCADA,173.182.7.109,Telus Communications,NA,-79.3716,43.6319,Canada,CAN,NA,Telus Communications,AS852
+353,Schneider Electric,Generic,ClearSCADA,192.208.10.55,Sandwell Inc., DATAP Systems Division,Calgary,-114.0349,51.0272,Canada,CAN,NA,Sandwell Inc., DATAP Systems Division,AS36337
+354,Schneider Electric,Generic,ClearSCADA,212.89.229.22,Rainside s.r.o.,NA,19.5,48.6667,Slovakia,SVK,NA,Rainside s.r.o.,AS12508
+355,Schneider Electric,Generic,ClearSCADA,206.123.204.221,FastTrack Communications,Durango,-107.8488,37.4509,United States,USA,NA,City of aztec,AS30688
+356,Schneider Electric,Generic,ClearSCADA,32.60.110.209,AT&T,Whitby,-78.9378,43.8719,Canada,CAN,NA,AT&T,AS2685
+357,Schneider Electric,Generic,ClearSCADA,70.166.250.28,Cox Communications,Wichita,-97.3132,37.5978,United States,USA,NA,Cox Communications,AS22773
+358,Schneider Electric,Generic,ClearSCADA,98.23.98.21,Windstream Communications,Dumas,-101.9508,35.8787,United States,USA,NA,Windstream Communications,AS7029
+359,Schneider Electric,Generic,ClearSCADA,65.100.222.71,CenturyLink,Salt Lake City,-111.8591,40.7386,United States,USA,NA,CenturyLink,AS209
+360,Schneider Electric,Generic,ClearSCADA,217.16.185.80,VSHosting s.r.o.,NA,14.4112,50.0848,Czech Republic,CZE,NA,VSHosting s.r.o.,AS43541
+361,Schneider Electric,Generic,ClearSCADA,24.173.105.130,Time Warner Cable,San Antonio,-98.5735,29.4616,United States,USA,NA,Time Warner Cable,AS11427
+362,Schneider Electric,Generic,ClearSCADA,63.110.12.6,Verizon Business,Big Lake,-101.53,31.296,United States,USA,NA,Verizon Business,AS701
+363,Schneider Electric,Generic,ClearSCADA,68.233.149.90,Leaco Rural Telephone,Hagerman,-104.2686,33.0613,United States,USA,NA,Leaco Rural Telephone,AS16934
+364,Schneider Electric,Generic,ClearSCADA,124.66.154.50,Singtel Enterprise,Singapore,103.8558,1.29310000000001,Singapore,SGP,NA,SingNet Pte Ltd,AS3758
+365,Schneider Electric,Generic,ClearSCADA,24.173.105.131,Time Warner Cable,San Antonio,-98.5735,29.4616,United States,USA,NA,Time Warner Cable,AS11427
+366,Schneider Electric,Generic,ClearSCADA,64.56.139.122,WiBand Communications,Beaverlodge,-119.45,55.2,Canada,CAN,NA,WiBand Communications,AS15102
+367,Schneider Electric,Generic,ClearSCADA,98.23.98.21,Windstream Communications,Dumas,-101.9508,35.8787,United States,USA,NA,Windstream Communications,AS7029
+368,Schneider Electric,Generic,ClearSCADA,72.54.226.58,Cbeyond Communications,Chicago,-87.6368,41.8876,United States,USA,NA,Cbeyond Communications,AS17184
+369,Schneider Electric,Generic,ClearSCADA,173.239.110.26,HostMySite,Denver,-104.8847,39.6929,United States,USA,NA,HostMySite,AS20021
+370,Schneider Electric,Generic,ClearSCADA,98.23.98.19,Windstream Communications,Dumas,-101.9508,35.8787,United States,USA,NA,Windstream Communications,AS7029
+371,Schneider Electric,Generic,ClearSCADA,50.251.80.65,Comcast Cable,Harrisburg,-76.823,40.2897,United States,USA,NA,Comcast Business,AS7922
+372,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,75.157.67.124,Telus Communications,Vancouver,-122.8251,49.1064,Canada,CAN,NA,Telus Communications,AS852
+373,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,89.244.152.99,Versatel Deutschland,Velbert,7.05940000000001,51.3434,Germany,DEU,NA,Versatel Deutschland,AS8881
+374,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,62.71.90.244,Telia Finland Oyj,NA,24.9375,60.1708,Finland,FIN,NA,TeliaSonera Finland Oyj,AS1759
+375,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,195.210.39.144,Andrew Turnbull,NA,-0.122399999999999,51.4964,United Kingdom,GBR,NA,Andrew Turnbull,AS39602
+376,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,162.247.21.225,Groupe Maskatel,Saint-hyacinthe,-72.9912,45.6139,Canada,CAN,NA,Groupe Maskatel,AS15321
+377,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,193.65.52.2,Elisa Oyj,Helsinki,25.0596,60.2711,Finland,FIN,NA,Elisa Oyj,AS790
+378,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,109.204.208.107,Tampereen Puhelin Oy,Tampere,23.8041,61.4957,Finland,FIN,NA,Tampereen Puhelin Oy,AS50503
+379,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,24.203.57.47,Videotron Ltee,Sherbrooke,-72.0128,45.3395,Canada,CAN,NA,Videotron Ltee,AS5769
+380,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,195.165.137.179,Telia Finland Oyj,NA,24.9375,60.1708,Finland,FIN,NA,TeliaSonera Finland Oyj,AS1759
+381,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,89.207.136.78,IDE Group Manage Limited,Sittingbourne,0.738499999999988,51.345,United Kingdom,GBR,NA,IDE Group Manage Limited,AS35670
+382,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,82.71.6.76,Zen Internet Ltd,Hackney,-0.0500000000000114,51.55,United Kingdom,GBR,NA,Zen Internet Ltd,AS13037
+383,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,84.9.29.140,Vodafone Broadband,Bermondsey,-0.0666999999999973,51.5,United Kingdom,GBR,NA,Vodafone Broadband,AS25310
+384,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,50.207.127.180,Comcast Cable,NA,-96.8217,32.7787,United States,USA,NA,Comcast Business,AS7922
+385,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,69.70.7.226,Videotron Ltee,Mascouche,-73.6049,45.77,Canada,CAN,NA,Videotron Ltee,AS5769
+386,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,66.119.23.114,SpringNet,Springfield,-93.3176,37.219,United States,USA,NA,City Of Joplin,AS21737
+387,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,66.119.23.110,SpringNet,Springfield,-93.3176,37.219,United States,USA,NA,City Of Joplin,AS21737
+388,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,109.204.145.38,Tampereen Puhelin Oy,Tampere,23.6721,61.5274,Finland,FIN,NA,Tampereen Puhelin Oy / Infrastructure,AS50503
+389,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,87.114.76.22,Plusnet,Haringey,-0.0833000000000084,51.5833,United Kingdom,GBR,NA,Plusnet,AS6871
+390,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,205.237.30.222,Commission scolaire Marguerite-Bourgeoys,Montréal,-73.5985,45.4546,Canada,CAN,NA,Commission scolaire Marguerite-Bourgeoys,AS376
+391,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,50.202.35.89,Comcast Cable,Holyoke,-72.6409,42.2238,United States,USA,NA,Comcast Business,AS7922
+392,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,217.169.6.46,Andrews & Arnold Ltd,Bexhill,0.45089999999999,50.8519,United Kingdom,GBR,NA,Andrews & Arnold Ltd,AS20712
+393,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,195.165.138.229,Telia Finland Oyj,NA,24.9375,60.1708,Finland,FIN,NA,TeliaSonera Finland Oyj,AS1759
+394,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,71.86.30.174,Spectrum,Saint Louis,-90.3469,38.5899,United States,USA,NA,Spectrum,AS20115
+395,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,199.244.134.200,City of South Lake Tahoe,South Lake Tahoe,-120.0139,38.8479,United States,USA,NA,City of South Lake Tahoe,AS7018
+396,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,24.84.25.165,Shaw Communications,Vancouver,-123.0667,49.2795,Canada,CAN,NA,Shaw Communications,AS6327
+397,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,74.198.191.185,Rogers Wireless,Brampton,-79.7021,43.7942,Canada,CAN,NA,Rogers Wireless,AS20453
+398,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,68.188.82.146,Spectrum,Saint Louis,-90.5016,38.71,United States,USA,NA,Spectrum,AS20115
+399,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,84.45.218.169,Entanet,NA,-0.122399999999999,51.4964,United Kingdom,GBR,NA,Entanet,AS8468
+400,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,195.162.122.18,Gamma Telecom Holdings Ltd,Notting Hill,-0.216700000000003,51.5167,United Kingdom,GBR,NA,Gamma Telecom Holdings Ltd,AS31655
+401,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,75.130.116.146,Spectrum,Suffolk,-76.6097,36.7044,United States,USA,NA,Spectrum,AS20115
+402,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,184.69.118.54,Shaw Communications,Nanaimo,-124.02,49.2146,Canada,CAN,NA,Shaw Communications,AS6327
+403,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,178.219.132.141,G-NET T.Serwatka W.Rakoniewski Spolka Jawna,Gieraltowice,18.7276,50.2263,Poland,POL,NA,G-NET T.Serwatka W.Rakoniewski Spolka Jawna,AS200414
+404,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,62.92.134.90,Telenor Norge AS,Oslo,10.7461,59.9127,Norway,NOR,NA,Rezidor Hospitality Norway AS,AS2119
+405,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,88.28.221.37,Telefonica de Espana Static IP,NA,-3.684,40.4172,Spain,ESP,NA,Telefonica de Espana Static IP,AS3352
+406,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,109.1.233.161,SFR,Chamrousse,5.875,45.1282,France,FRA,NA,SFR,AS15557
+407,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,24.103.7.107,Time Warner Cable,New York,-73.9862,40.7662,United States,USA,NA,Time Warner Cable,AS12271
+408,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,193.64.215.250,Elisa Oyj,Helsinki,24.9294,60.2325,Finland,FIN,NA,Elisa Oyj,AS790
+409,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,162.230.222.216,AT&T U-verse,Woodland,-121.6812,38.693,United States,USA,NA,AT&T U-verse,AS7018
+410,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,216.215.117.98,Logix,Houston,-95.5044,29.7686,United States,USA,NA,Logix,AS11215
+411,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,96.92.167.146,Comcast Cable,Medford,-71.1112,42.4247,United States,USA,NA,Comcast Business,AS7922
+412,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,194.83.70.52,Jisc Services Limited,NA,-0.122399999999999,51.4964,United Kingdom,GBR,NA,West College Scotland,AS786
+413,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,31.172.191.156,3S Fibertech Sp. z o.o.,Krakow,19.9802,50.0575,Poland,POL,NA,3S Fibertech Sp. z o.o.,AS50481
+414,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,75.130.15.230,Spectrum,Moberly,-92.4088,39.4037,United States,USA,NA,Central Christian college,AS20115
+415,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,86.184.249.230,BT,Amersham,-0.616700000000009,51.6667,United Kingdom,GBR,NA,BT,AS2856
+416,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,199.231.170.186,U.S. Metropolitan Telecom, LLC,Fort Myers,-81.8997,26.5584,United States,USA,NA,U.S. Metropolitan Telecom, LLC,AS14133
+417,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,89.145.217.232,Daisy Communications Ltd,NA,-0.122399999999999,51.4964,United Kingdom,GBR,NA,Daisy Communications Ltd,AS5413
+418,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,96.92.131.186,Comcast Cable,Boston,-71.0993,42.3451,United States,USA,NA,Comcast Business,AS7922
+419,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,91.126.207.249,Adamo Telecom Iberia S.A.,Sant Joan Despi,2.0574,41.3672,Spain,ESP,NA,Adamo Telecom Iberia S.A.U.,AS35699
+420,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,178.219.132.141,G-NET T.Serwatka W.Rakoniewski Spolka Jawna,Gieraltowice,18.7276,50.2263,Poland,POL,NA,G-NET T.Serwatka W.Rakoniewski Spolka Jawna,AS200414
+421,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,73.227.193.51,Comcast Cable,Boston,-71.0674,42.3616,United States,USA,NA,Comcast Cable,AS7922
+422,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,64.119.216.68,Fibrenoire,Montréal,-73.6327,45.5302,Canada,CAN,NA,Fibrenoire,AS22652
+423,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,75.151.47.110,Comcast Cable,Lehigh Acres,-81.6248,26.6254,United States,USA,NA,Comcast Business,AS7922
+424,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,109.204.202.72,Tampereen Puhelin Oy,Tampere,23.7532,61.5006,Finland,FIN,NA,Tampereen Puhelin Oy,AS50503
+425,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,108.36.253.76,Verizon Fios Business,Philadelphia,-75.1471,40.0124,United States,USA,NA,Verizon Fios Business,AS701
+426,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,24.37.18.130,Videotron Ltee,Montréal,-73.6507,45.5741,Canada,CAN,NA,Videotron Ltee,AS5769
+427,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,2.83.56.170,MEO,Porto,-8.61099999999999,41.1496,Portugal,PRT,NA,MEO,AS3243
+428,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,47.50.235.139,Spectrum,Saint Louis,-90.2987,38.5204,United States,USA,NA,Spectrum,AS20115
+429,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,216.195.129.126,Great Works Internet,Portland,-70.2553,43.6615,United States,USA,NA,Biddeford Internet Corp,AS5760
+430,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,208.180.234.41,Suddenlink Communications,Bryan,-96.3238,30.6583,United States,USA,NA,Suddenlink Communications,AS19108
+431,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,64.183.235.10,Time Warner Cable,Richardson,-96.7376,32.9722,United States,USA,NA,Time Warner Cable,AS11427
+432,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,195.165.183.44,Telia Finland Oyj,Kouvola,26.6709,60.8669,Finland,FIN,NA,TeliaSonera Finland Oyj,AS1759
+433,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,93.83.104.227,Telekom Austria,NA,16.3667,48.2,Austria,AUT,NA,Telekom Austria,AS8447
+434,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,66.130.162.73,Videotron Ltee,Brossard,-73.4561,45.4414,Canada,CAN,NA,Videotron Ltee,AS5769
+435,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,194.8.226.112,Suupohjan Seutuverkko Oy,Norinkylä,22.0333,62.5667,Finland,FIN,NA,Suupohjan Seutuverkko Oy,AS201172
+436,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,204.93.97.95,EPB Fiber Optics,Chattanooga,-85.2307,35.0272,United States,USA,NA,EPB Fiber Optics,AS26827
+437,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,69.64.101.23,Taunton Municipal Lighting Plant,Charlton,-71.9731,42.1318,United States,USA,NA,Taunton Municipal Lighting Plant,AS22018
+438,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,8.18.229.122,Hotwire Business Solutions,Miami,-80.2044,25.7665,United States,USA,NA,Hotwire Business Solutions,AS23089
+439,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,74.64.67.160,Time Warner Cable,Monticello,-74.6868,41.6558,United States,USA,NA,Time Warner Cable,AS12271
+440,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,69.70.141.74,Videotron Ltee,Gatineau,-75.6157,45.4869,Canada,CAN,NA,Videotron Ltee,AS5769
+441,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,62.71.119.23,Telia Finland Oyj,NA,24.9375,60.1708,Finland,FIN,NA,Telia Finland Oyj,AS1759
+442,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,70.52.196.129,Bell Canada,Port Perry,-78.9444,44.1068,Canada,CAN,NA,Bell Canada,AS577
+443,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,66.119.23.120,SpringNet,Springfield,-93.3176,37.219,United States,USA,NA,City Of Joplin,AS21737
+444,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,142.169.194.218,Telus Communications,NA,-79.3716,43.6319,Canada,CAN,NA,Telus Communications,AS852
+445,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,166.141.100.17,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+446,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,67.68.146.181,Bell Canada,Sherbrooke,-71.8986,45.3891,Canada,CAN,NA,Bell Canada,AS577
+447,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,24.119.98.238,Cable One,Jerome,-114.365,42.7595,United States,USA,NA,Cable One,AS11492
+448,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,69.70.97.174,Videotron Ltee,Lévis,-71.1779,46.8033,Canada,CAN,NA,Videotron Ltee,AS5769
+449,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,184.70.26.50,Shaw Communications,Vancouver,-123.1408,49.299,Canada,CAN,NA,Shaw Communications,AS6327
+450,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,216.220.98.93,Bway.net,New York,-73.9885,40.7317,United States,USA,NA,Bway.net,AS8059
+451,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,195.165.182.213,Telia Finland Oyj,Kouvola,26.6709,60.8669,Finland,FIN,NA,TeliaSonera Finland Oyj,AS1759
+452,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,88.117.168.57,Telekom Austria,Gleisdorf,15.6983,47.1217,Austria,AUT,NA,Telekom Austria,AS8447
+453,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,71.7.181.202,EastLink,Truro,-63.2654,45.3668,Canada,CAN,NA,EastLink,AS11260
+454,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,104.191.226.1,AT&T U-verse,NA,-97.822,37.751,United States,USA,NA,AT&T U-verse,AS7018
+455,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,98.118.102.3,Verizon Fios Business,Wilmington,-71.1745,42.5653,United States,USA,NA,Verizon Fios Business,AS701
+456,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,82.219.234.105,Exa Networks Limited,Crawley,-0.183300000000003,51.1167,United Kingdom,GBR,NA,Exa Networks Limited,AS30740
+457,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,77.226.179.204,Vodafone Spain,NA,-3.684,40.4172,Spain,ESP,NA,Vodafone Spain,AS12430
+458,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,85.53.145.61,Orange Espana,Tarragona,1.25,41.1167,Spain,ESP,NA,Orange Espana,AS12479
+459,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,73.199.145.91,Comcast Cable,Maple Shade,-74.9924,39.9526,United States,USA,NA,Comcast Cable,AS7922
+460,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,62.92.134.86,Telenor Norge AS,Oslo,10.7461,59.9127,Norway,NOR,NA,Rezidor Hospitality Norway AS,AS2119
+461,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,81.168.91.115,Eclipse Internet,Westminster,-0.116700000000009,51.5,United Kingdom,GBR,NA,Eclipse Internet,AS12513
+462,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,207.237.125.25,RCN,New York,-74.0203,40.6888,United States,USA,NA,RCN,AS6079
+463,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,50.242.112.57,Comcast Cable,San Mateo,-122.3041,37.5402,United States,USA,NA,Comcast Business,AS7922
+464,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,198.16.29.214,Marco Island Cable,Marco Island,-81.6977,25.9376,United States,USA,NA,Summit Broadband,AS26205
+465,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,69.51.203.167,Sogetel,Nicolet,-72.6158,46.2168,Canada,CAN,NA,Sogetel,AS4540
+466,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,194.157.204.38,Elisa Oyj,Helsinki,24.9342,60.1756,Finland,FIN,NA,Elisa Oyj,AS719
+467,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,109.204.202.58,Tampereen Puhelin Oy,Tampere,23.7532,61.5006,Finland,FIN,NA,Tampereen Puhelin Oy,AS50503
+468,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,176.35.206.135,Daisy Communications Ltd,Grasmere,-3.01669999999999,54.45,United Kingdom,GBR,NA,Daisy Communications Ltd,AS5413
+469,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,12.42.100.242,AT&T Services,Pompano Beach,-80.2186,26.214,United States,USA,NA,AT&T Services,AS7018
+470,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,109.204.204.229,Tampereen Puhelin Oy,Tampere,23.7532,61.5006,Finland,FIN,NA,Tampereen Puhelin Oy,AS50503
+471,Delta Controls,enteliTOUCH,DELTA enteliTOUCH,89.242.2.28,TalkTalk,Catford,-0.0166999999999859,51.45,United Kingdom,GBR,NA,TalkTalk,AS13285
+472,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,192.76.177.141,New York University,New York,-73.9885,40.7317,United States,USA,NA,New York University,AS12
+473,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,170.254.48.231,Autoridad del Canal de Panama,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+474,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,201.221.230.58,Liberty Technologies Corp.,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Liberty Technologies Corp.,AS27928
+475,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,50.74.45.243,Time Warner Cable,West Hempstead,-73.6502,40.6894,United States,USA,NA,Time Warner Cable,AS12271
+476,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,108.14.52.186,Verizon Fios Business,New York,-73.9813,40.7769,United States,USA,NA,Verizon Fios Business,AS701
+477,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,96.239.100.104,Verizon Fios Business,New York,-73.9885,40.7317,United States,USA,NA,Verizon Fios Business,AS701
+478,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,165.98.139.210,Centro De Administracion Nic.ni,Managua,-86.2683,12.1508,Nicaragua,NIC,NA,Amnet Telecomunicaciones S.A.,AS27742
+479,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,160.94.131.196,University of Minnesota,Osceola,-92.6306,45.277,United States,USA,NA,University of Minnesota,AS217
+480,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,134.129.208.5,North Dakota State University - Computer Center,Fargo,-96.7898,46.8772,United States,USA,NA,North Dakota State University - Computer Center,AS19530
+481,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,170.254.48.240,Autoridad del Canal de Panama,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+482,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,166.239.185.235,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+483,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,186.179.114.50,Cable Onda,NA,-80,9,Panama,PAN,NA,Cable Onda,AS27755
+484,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,186.1.17.156,Equipos Y Sistemas S.A.,Managua,-86.2683,12.1508,Nicaragua,NIC,NA,Equipos Y Sistemas S.A.,AS18840
+485,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,207.237.37.103,RCN,Middle Village,-73.8812,40.7178,United States,USA,NA,RCN,AS6079
+486,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,24.103.247.170,Time Warner Cable,New York,-73.9512,40.7805,United States,USA,NA,Time Warner Cable,AS12271
+487,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,70.35.149.234,NewCom International,Miami,-80.2144,25.9388,United States,USA,NA,NewCom International,AS32034
+488,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,170.254.48.230,Autoridad del Canal de Panama,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+489,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,69.193.135.198,Time Warner Cable,New York,-73.9802,40.7252,United States,USA,NA,Time Warner Cable,AS12271
+490,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,186.179.114.50,Cable Onda,NA,-80,9,Panama,PAN,NA,Cable Onda,AS27755
+491,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,50.74.69.30,Time Warner Cable,Brooklyn,-73.9268,40.692,United States,USA,NA,Time Warner Cable,AS12271
+492,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,201.221.230.57,Liberty Technologies Corp.,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Liberty Technologies Corp.,AS27928
+493,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,95.13.76.58,Turk Telekom,Kirklareli,27.2252,41.7351,Turkey,TUR,NA,Turk Telekom,AS9121
+494,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,192.76.177.140,New York University,New York,-73.9885,40.7317,United States,USA,NA,New York University,AS12
+495,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,129.24.97.138,University of New Mexico,Albuquerque,-106.6729,35.0443,United States,USA,NA,University of New Mexico,AS3388
+496,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,100.33.142.99,Verizon Fios Business,Brooklyn,-74.0124,40.6166,United States,USA,NA,Verizon Fios Business,AS701
+497,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,170.254.48.238,Autoridad del Canal de Panama,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+498,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,172.254.9.38,Time Warner Cable,Bayside,-73.7771,40.7684,United States,USA,NA,Time Warner Cable,AS12271
+499,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,166.239.185.239,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+500,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,152.7.208.10,North Carolina Research and Education Network,Raleigh,-78.7239,35.7463,United States,USA,NA,North Carolina State University,AS11442
+501,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,108.21.110.102,Verizon Fios Business,New York,-73.9653,40.8006,United States,USA,NA,Verizon Fios Business,AS701
+502,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,134.129.208.31,North Dakota State University - Computer Center,Fargo,-96.7898,46.8772,United States,USA,NA,North Dakota State University - Computer Center,AS19530
+503,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,200.46.161.238,Cable Onda,NA,-80,9,Panama,PAN,NA,Cable Onda,AS21599
+504,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,200.46.239.238,Cable Onda,NA,-80,9,Panama,PAN,NA,Cable Onda,AS21599
+505,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,192.76.177.142,New York University,New York,-73.9885,40.7317,United States,USA,NA,New York University,AS12
+506,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.102.62.89,Digicel (Panama), S.A,NA,-80.9167,7.41669999999999,Panama,PAN,NA,DigiCloud - Pointivity,AS28005
+507,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,134.129.208.8,North Dakota State University - Computer Center,Fargo,-96.7898,46.8772,United States,USA,NA,North Dakota State University - Computer Center,AS19530
+508,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,24.103.7.252,Time Warner Cable,New York,-73.9862,40.7662,United States,USA,NA,Time Warner Cable,AS12271
+509,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,100.12.13.121,Verizon Fios Business,Corona,-73.8534,40.7497,United States,USA,NA,Verizon Fios Business,AS701
+510,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,166.239.185.236,Verizon Wireless,NA,-97.822,37.751,United States,USA,NA,Verizon Wireless,AS22394
+511,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,98.113.78.124,Verizon Fios Business,New York,-73.9933,40.7605,United States,USA,NA,Verizon Fios Business,AS701
+512,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.53.44.106,Amnet Telecomunicaciones S.A.,NA,-88.9167,13.8333,El Salvador,SLV,NA,Amnet Telecomunicaciones S.A.,AS27742
+513,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,129.24.33.9,University of New Mexico,Albuquerque,-106.6729,35.0443,United States,USA,NA,University of New Mexico,AS3388
+514,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,24.103.248.118,Time Warner Cable,New York,-73.9218,40.8626,United States,USA,NA,Time Warner Cable,AS12271
+515,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.105.154.89,Comunicaciones Tasion,Volcán,-82.6333,8.76669999999999,Panama,PAN,NA,Comunicaciones Tasion,AS52337
+516,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,134.129.208.7,North Dakota State University - Computer Center,Fargo,-96.7898,46.8772,United States,USA,NA,North Dakota State University - Computer Center,AS19530
+517,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,50.74.46.59,Time Warner Cable,New York,-73.9384,40.827,United States,USA,NA,Time Warner Cable,AS12271
+518,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,172.254.173.167,Time Warner Cable,Brooklyn,-73.9855,40.6617,United States,USA,NA,Time Warner Cable,AS12271
+519,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.5.242.110,Cable Onda,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Cable Onda,AS21599
+520,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,134.129.208.6,North Dakota State University - Computer Center,Fargo,-96.7898,46.8772,United States,USA,NA,North Dakota State University - Computer Center,AS19530
+521,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,208.59.117.196,RCN,Maplewood,-74.2662,40.7298,United States,USA,NA,RCN,AS6079
+522,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,64.191.6.4,Waverly Utilities,NA,-97.822,37.751,United States,USA,Linux 2.4-2.6,Waverly Utilities,AS20298
+523,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,172.254.9.106,Time Warner Cable,Bayside,-73.7771,40.7684,United States,USA,NA,Time Warner Cable,AS12271
+524,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,89.161.107.227,Telekomunikacja Podlasie Sp. z o.o.,Siemiatycze,22.9132,52.3932,Poland,POL,NA,Telekomunikacja Podlasie Sp. z o.o.,AS39375
+525,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,170.254.48.239,Autoridad del Canal de Panama,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+526,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,170.254.48.233,Autoridad del Canal de Panama,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+527,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,170.254.48.241,Autoridad del Canal de Panama,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+528,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,100.12.131.156,Verizon Fios Business,Livingston,-74.3291,40.7871,United States,USA,NA,Verizon Fios Business,AS701
+529,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,72.80.117.206,Verizon Fios Business,New York,-73.943,40.8185,United States,USA,NA,Verizon Fios Business,AS701
+530,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,170.254.48.232,Autoridad del Canal de Panama,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+531,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,72.89.243.52,Verizon Fios Business,New York,-73.9972,40.7517,United States,USA,NA,Verizon Fios Business,AS701
+532,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,100.38.216.170,Verizon Fios Business,Long Island City,-73.9361,40.74,United States,USA,NA,Verizon Fios Business,AS701
+533,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.5.242.108,Cable Onda,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Cable Onda,AS21599
+534,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,172.254.171.146,Time Warner Cable,Brooklyn,-73.9855,40.6617,United States,USA,NA,Time Warner Cable,AS12271
+535,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.5.228.68,Cable Onda,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Cable Onda,AS21599
+536,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,134.129.208.32,North Dakota State University - Computer Center,Fargo,-96.7898,46.8772,United States,USA,NA,North Dakota State University - Computer Center,AS19530
+537,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.102.62.89,Digicel (Panama), S.A,NA,-80.9167,7.41669999999999,Panama,PAN,NA,DigiCloud - Pointivity,AS28005
+538,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,172.254.138.58,Time Warner Cable,New York,-73.9503,40.7625,United States,USA,NA,Time Warner Cable,AS12271
+539,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,200.46.161.237,Cable Onda,NA,-80,9,Panama,PAN,NA,Cable Onda,AS21599
+540,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,75.127.189.115,Optimum Online,Westbury,-73.5814,40.757,United States,USA,NA,Optimum Online,AS6128
+541,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,200.46.196.247,Cable Onda,NA,-80,9,Panama,PAN,NA,Cable Onda,AS21599
+542,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.242.12.238,Columbus Networks de Colombia Limitada,NA,-80.9167,7.41669999999999,Panama,PAN,NA,Columbus Networks USA,AS23520
+543,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,209.161.123.50,Gbnet Corporation,Miami,-80.1911,25.7631,United States,USA,NA,BT LATAM Venezuela, S.A.,AS7908
+544,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,23.246.89.146,Time Warner Cable,New York,-74.005,40.7055,United States,USA,NA,Time Warner Cable,AS12271
+545,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.5.228.70,Cable Onda,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Cable Onda,AS21599
+546,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,24.249.223.198,Cox Communications,Higganum,-72.5828,41.4628,United States,USA,NA,Cox Communications,AS22773
+547,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,98.116.12.61,Verizon Fios Business,Glen Rock,-74.123,40.9604,United States,USA,NA,Verizon Fios Business,AS701
+548,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,201.221.230.55,Liberty Technologies Corp.,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Liberty Technologies Corp.,AS27928
+549,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,200.46.112.18,Cable Onda,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Cable Onda,AS21599
+550,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,209.161.123.50,Gbnet Corporation,Miami,-80.1911,25.7631,United States,USA,NA,BT LATAM Venezuela, S.A.,AS7908
+551,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,207.225.28.1,CenturyLink,Colorado Springs,-104.874,38.9299,United States,USA,Linux 2.4-2.6,CenturyLink,AS209
+552,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,152.1.236.84,North Carolina State University,Raleigh,-78.7239,35.7463,United States,USA,NA,North Carolina State University,AS11442
+553,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,72.69.113.9,Verizon Fios Business,Brooklyn,-73.9779,40.6441,United States,USA,NA,Verizon Fios Business,AS701
+554,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,200.46.239.235,Cable Onda,NA,-80,9,Panama,PAN,NA,Cable Onda,AS21599
+555,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.105.152.218,Comunicaciones Tasion,Volcán,-82.6333,8.76669999999999,Panama,PAN,NA,Comunicaciones Tasion,AS52337
+556,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,134.129.139.249,North Dakota State University - Computer Center,Fargo,-96.7898,46.8772,United States,USA,NA,North Dakota State University - Computer Center,AS19530
+557,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,190.2.232.236,Cable Onda,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Cable Onda,AS27755
+558,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,50.74.254.62,Time Warner Cable,Bronx,-73.8867,40.8648,United States,USA,NA,Time Warner Cable,AS12271
+559,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,200.46.196.248,Cable Onda,NA,-80,9,Panama,PAN,NA,Cable Onda,AS21599
+560,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,68.132.214.203,Verizon Fios Business,New York,-73.9813,40.7769,United States,USA,NA,Verizon Fios Business,AS701
+561,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,168.77.207.40,Autoridad del Canal de Panama,NA,-80,9,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+562,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,201.221.230.54,Liberty Technologies Corp.,Panama,-79.5197,8.99359999999999,Panama,PAN,NA,Liberty Technologies Corp.,AS27928
+563,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,172.254.45.195,Time Warner Cable,New York,-73.9826,40.7391,United States,USA,NA,Time Warner Cable,AS12271
+564,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,168.77.207.41,Autoridad del Canal de Panama,NA,-80,9,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+565,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,64.191.6.4,Waverly Utilities,NA,-97.822,37.751,United States,USA,NA,Waverly Utilities,AS20298
+566,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,98.191.60.133,Cox Communications,Providence,-71.3932,41.8379,United States,USA,NA,Cox Communications,AS22773
+567,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,168.77.207.30,Autoridad del Canal de Panama,NA,-80,9,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+568,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,100.12.131.155,Verizon Fios Business,Livingston,-74.3291,40.7871,United States,USA,NA,Verizon Fios Business,AS701
+569,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,208.59.124.146,RCN,New York,-73.9653,40.8006,United States,USA,NA,RCN,AS6079
+570,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,75.127.189.115,Optimum Online,Westbury,-73.5814,40.757,United States,USA,NA,Optimum Online,AS6128
+571,Electro Industries GaugeTech,Generic,EIG Embedded Web Server,168.77.207.39,Autoridad del Canal de Panama,NA,-80,9,Panama,PAN,NA,Autoridad del Canal de Panama,AS23414
+572,Elster EnergyICT,Generic,EnergyICT,77.16.19.153,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+573,Elster EnergyICT,Generic,EnergyICT,77.18.138.6,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+574,Elster EnergyICT,Generic,EnergyICT,46.66.167.231,Telenor Norge AS,Stange,11.1942,60.718,Norway,NOR,NA,Telenor Norge AS,AS2119
+575,Elster EnergyICT,Generic,EnergyICT,62.169.78.114,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+576,Elster EnergyICT,Generic,EnergyICT,62.169.78.97,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+577,Elster EnergyICT,Generic,EnergyICT,87.196.93.97,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+578,Elster EnergyICT,Generic,EnergyICT,77.18.149.39,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+579,Elster EnergyICT,Generic,EnergyICT,77.16.12.55,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+580,Elster EnergyICT,Generic,EnergyICT,77.18.136.247,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+581,Elster EnergyICT,Generic,EnergyICT,88.210.126.191,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+582,Elster EnergyICT,Generic,EnergyICT,77.18.155.7,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+583,Elster EnergyICT,Generic,EnergyICT,77.16.19.246,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+584,Elster EnergyICT,Generic,EnergyICT,46.66.189.152,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+585,Elster EnergyICT,Generic,EnergyICT,87.196.93.135,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+586,Elster EnergyICT,Generic,EnergyICT,107.134.168.27,AT&T U-verse,NA,-97.822,37.751,United States,USA,NA,AT&T U-verse,AS7018
+587,Elster EnergyICT,Generic,EnergyICT,46.66.185.128,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+588,Elster EnergyICT,Generic,EnergyICT,77.16.5.104,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+589,Elster EnergyICT,Generic,EnergyICT,77.18.147.54,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+590,Elster EnergyICT,Generic,EnergyICT,77.18.148.146,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+591,Elster EnergyICT,Generic,EnergyICT,77.18.128.32,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+592,Elster EnergyICT,Generic,EnergyICT,46.66.190.114,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+593,Elster EnergyICT,Generic,EnergyICT,62.169.78.161,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+594,Elster EnergyICT,Generic,EnergyICT,46.66.178.176,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+595,Elster EnergyICT,Generic,EnergyICT,62.169.78.176,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+596,Elster EnergyICT,Generic,EnergyICT,88.210.126.131,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+597,Elster EnergyICT,Generic,EnergyICT,77.18.140.94,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+598,Elster EnergyICT,Generic,EnergyICT,62.169.78.78,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+599,Elster EnergyICT,Generic,EnergyICT,77.18.135.243,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+600,Elster EnergyICT,Generic,EnergyICT,46.66.184.118,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+601,Elster EnergyICT,Generic,EnergyICT,62.169.78.94,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+602,Elster EnergyICT,Generic,EnergyICT,77.18.149.200,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+603,Elster EnergyICT,Generic,EnergyICT,77.18.129.95,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+604,Elster EnergyICT,Generic,EnergyICT,46.66.190.187,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+605,Elster EnergyICT,Generic,EnergyICT,46.66.185.137,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+606,Elster EnergyICT,Generic,EnergyICT,46.66.177.194,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+607,Elster EnergyICT,Generic,EnergyICT,77.16.25.128,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+608,Elster EnergyICT,Generic,EnergyICT,88.210.126.127,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+609,Elster EnergyICT,Generic,EnergyICT,46.66.184.101,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+610,Elster EnergyICT,Generic,EnergyICT,87.196.93.87,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+611,Elster EnergyICT,Generic,EnergyICT,87.196.93.16,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+612,Elster EnergyICT,Generic,EnergyICT,77.18.129.182,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+613,Elster EnergyICT,Generic,EnergyICT,101.231.130.214,China Telecom Shanghai,Shanghai,121.3997,31.0456,China,CHN,NA,China Telecom Shanghai,AS4812
+614,Elster EnergyICT,Generic,EnergyICT,77.16.31.134,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+615,Elster EnergyICT,Generic,EnergyICT,62.169.78.99,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+616,Elster EnergyICT,Generic,EnergyICT,77.18.153.147,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+617,Elster EnergyICT,Generic,EnergyICT,46.66.172.133,Telenor Norge AS,Stange,11.1942,60.718,Norway,NOR,NA,Telenor Norge AS,AS2119
+618,Elster EnergyICT,Generic,EnergyICT,77.16.7.10,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+619,Elster EnergyICT,Generic,EnergyICT,77.16.10.188,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+620,Elster EnergyICT,Generic,EnergyICT,87.196.93.136,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+621,Elster EnergyICT,Generic,EnergyICT,77.16.7.114,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+622,Elster EnergyICT,Generic,EnergyICT,46.66.181.149,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+623,Elster EnergyICT,Generic,EnergyICT,77.18.142.87,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+624,Elster EnergyICT,Generic,EnergyICT,77.16.30.43,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+625,Elster EnergyICT,Generic,EnergyICT,87.196.93.147,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+626,Elster EnergyICT,Generic,EnergyICT,77.18.149.38,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+627,Elster EnergyICT,Generic,EnergyICT,77.16.5.2,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+628,Elster EnergyICT,Generic,EnergyICT,62.169.78.153,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+629,Elster EnergyICT,Generic,EnergyICT,46.66.190.50,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+630,Elster EnergyICT,Generic,EnergyICT,77.16.21.113,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+631,Elster EnergyICT,Generic,EnergyICT,77.16.15.38,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+632,Elster EnergyICT,Generic,EnergyICT,77.18.154.92,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+633,Elster EnergyICT,Generic,EnergyICT,46.66.169.115,Telenor Norge AS,Stange,11.1942,60.718,Norway,NOR,NA,Telenor Norge AS,AS2119
+634,Elster EnergyICT,Generic,EnergyICT,62.169.78.116,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+635,Elster EnergyICT,Generic,EnergyICT,77.16.4.98,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+636,Elster EnergyICT,Generic,EnergyICT,77.18.132.211,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+637,Elster EnergyICT,Generic,EnergyICT,37.253.163.224,Telenor Norge AS,Namsos,11.4957,64.4662,Norway,NOR,NA,Telenor Norge AS,AS2119
+638,Elster EnergyICT,Generic,EnergyICT,77.18.128.13,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+639,Elster EnergyICT,Generic,EnergyICT,88.210.126.169,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+640,Elster EnergyICT,Generic,EnergyICT,77.18.157.121,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+641,Elster EnergyICT,Generic,EnergyICT,46.66.189.197,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+642,Elster EnergyICT,Generic,EnergyICT,77.16.25.55,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+643,Elster EnergyICT,Generic,EnergyICT,193.126.65.163,Nos Comunicacoes, S.A.,Oliveira De Azemeis,-8.49279999999999,40.8524,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+644,Elster EnergyICT,Generic,EnergyICT,77.16.17.233,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+645,Elster EnergyICT,Generic,EnergyICT,87.196.93.80,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+646,Elster EnergyICT,Generic,EnergyICT,46.66.183.77,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+647,Elster EnergyICT,Generic,EnergyICT,87.196.93.79,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+648,Elster EnergyICT,Generic,EnergyICT,37.253.162.144,Telenor Norge AS,Namsos,11.4957,64.4662,Norway,NOR,NA,Telenor Norge AS,AS2119
+649,Elster EnergyICT,Generic,EnergyICT,87.196.93.102,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+650,Elster EnergyICT,Generic,EnergyICT,62.169.78.171,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+651,Elster EnergyICT,Generic,EnergyICT,88.210.127.235,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+652,Elster EnergyICT,Generic,EnergyICT,87.196.93.36,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+653,Elster EnergyICT,Generic,EnergyICT,87.196.93.88,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+654,Elster EnergyICT,Generic,EnergyICT,46.66.176.29,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+655,Elster EnergyICT,Generic,EnergyICT,77.18.158.58,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+656,Elster EnergyICT,Generic,EnergyICT,77.16.23.222,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+657,Elster EnergyICT,Generic,EnergyICT,77.16.7.244,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+658,Elster EnergyICT,Generic,EnergyICT,46.66.179.137,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+659,Elster EnergyICT,Generic,EnergyICT,37.253.163.70,Telenor Norge AS,Namsos,11.4957,64.4662,Norway,NOR,NA,Telenor Norge AS,AS2119
+660,Elster EnergyICT,Generic,EnergyICT,77.16.17.220,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+661,Elster EnergyICT,Generic,EnergyICT,77.16.6.135,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+662,Elster EnergyICT,Generic,EnergyICT,62.169.78.158,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+663,Elster EnergyICT,Generic,EnergyICT,77.18.157.138,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+664,Elster EnergyICT,Generic,EnergyICT,62.169.78.88,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+665,Elster EnergyICT,Generic,EnergyICT,37.253.162.236,Telenor Norge AS,Namsos,11.4957,64.4662,Norway,NOR,NA,Telenor Norge AS,AS2119
+666,Elster EnergyICT,Generic,EnergyICT,178.50.222.45,Orange Belgium SA,Kalmthout,4.4667,51.3833,Belgium,BEL,NA,Apn - Webpro.be,AS47377
+667,Elster EnergyICT,Generic,EnergyICT,77.18.146.28,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+668,Elster EnergyICT,Generic,EnergyICT,77.18.130.203,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+669,Elster EnergyICT,Generic,EnergyICT,46.66.190.173,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+670,Elster EnergyICT,Generic,EnergyICT,37.253.166.9,Telenor Norge AS,Kolvereid,11.6046,64.8655,Norway,NOR,NA,Telenor Norge AS,AS2119
+671,Elster EnergyICT,Generic,EnergyICT,88.210.126.176,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+672,Elster EnergyICT,RTU,EnergyICT RTU,77.16.19.153,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+673,Elster EnergyICT,RTU,EnergyICT RTU,77.18.138.6,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+674,Elster EnergyICT,RTU,EnergyICT RTU,46.66.167.231,Telenor Norge AS,Stange,11.1942,60.718,Norway,NOR,NA,Telenor Norge AS,AS2119
+675,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.114,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+676,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.97,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+677,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.97,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+678,Elster EnergyICT,RTU,EnergyICT RTU,77.18.149.39,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+679,Elster EnergyICT,RTU,EnergyICT RTU,77.16.12.55,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+680,Elster EnergyICT,RTU,EnergyICT RTU,77.18.136.247,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+681,Elster EnergyICT,RTU,EnergyICT RTU,88.210.126.191,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+682,Elster EnergyICT,RTU,EnergyICT RTU,77.18.155.7,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+683,Elster EnergyICT,RTU,EnergyICT RTU,77.16.19.246,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+684,Elster EnergyICT,RTU,EnergyICT RTU,46.66.189.152,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+685,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.135,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+686,Elster EnergyICT,RTU,EnergyICT RTU,107.134.168.27,AT&T U-verse,NA,-97.822,37.751,United States,USA,NA,AT&T U-verse,AS7018
+687,Elster EnergyICT,RTU,EnergyICT RTU,46.66.185.128,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+688,Elster EnergyICT,RTU,EnergyICT RTU,77.16.5.104,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+689,Elster EnergyICT,RTU,EnergyICT RTU,77.18.147.54,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+690,Elster EnergyICT,RTU,EnergyICT RTU,77.18.148.146,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+691,Elster EnergyICT,RTU,EnergyICT RTU,77.18.128.32,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+692,Elster EnergyICT,RTU,EnergyICT RTU,46.66.190.114,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+693,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.161,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+694,Elster EnergyICT,RTU,EnergyICT RTU,46.66.178.176,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+695,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.176,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+696,Elster EnergyICT,RTU,EnergyICT RTU,88.210.126.131,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+697,Elster EnergyICT,RTU,EnergyICT RTU,77.18.140.94,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+698,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.78,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+699,Elster EnergyICT,RTU,EnergyICT RTU,77.18.135.243,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+700,Elster EnergyICT,RTU,EnergyICT RTU,46.66.184.118,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+701,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.94,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+702,Elster EnergyICT,RTU,EnergyICT RTU,77.18.149.200,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+703,Elster EnergyICT,RTU,EnergyICT RTU,77.18.129.95,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+704,Elster EnergyICT,RTU,EnergyICT RTU,46.66.190.187,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+705,Elster EnergyICT,RTU,EnergyICT RTU,46.66.185.137,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+706,Elster EnergyICT,RTU,EnergyICT RTU,46.66.177.194,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+707,Elster EnergyICT,RTU,EnergyICT RTU,77.16.25.128,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+708,Elster EnergyICT,RTU,EnergyICT RTU,88.210.126.127,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+709,Elster EnergyICT,RTU,EnergyICT RTU,46.66.184.101,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+710,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.87,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+711,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.16,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+712,Elster EnergyICT,RTU,EnergyICT RTU,77.18.129.182,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+713,Elster EnergyICT,RTU,EnergyICT RTU,101.231.130.214,China Telecom Shanghai,Shanghai,121.3997,31.0456,China,CHN,NA,China Telecom Shanghai,AS4812
+714,Elster EnergyICT,RTU,EnergyICT RTU,77.16.31.134,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+715,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.99,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+716,Elster EnergyICT,RTU,EnergyICT RTU,77.18.153.147,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+717,Elster EnergyICT,RTU,EnergyICT RTU,46.66.172.133,Telenor Norge AS,Stange,11.1942,60.718,Norway,NOR,NA,Telenor Norge AS,AS2119
+718,Elster EnergyICT,RTU,EnergyICT RTU,77.16.7.10,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+719,Elster EnergyICT,RTU,EnergyICT RTU,77.16.10.188,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+720,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.136,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+721,Elster EnergyICT,RTU,EnergyICT RTU,77.16.7.114,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+722,Elster EnergyICT,RTU,EnergyICT RTU,46.66.181.149,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+723,Elster EnergyICT,RTU,EnergyICT RTU,77.18.142.87,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+724,Elster EnergyICT,RTU,EnergyICT RTU,77.16.30.43,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+725,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.147,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+726,Elster EnergyICT,RTU,EnergyICT RTU,77.18.149.38,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+727,Elster EnergyICT,RTU,EnergyICT RTU,77.16.5.2,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+728,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.153,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+729,Elster EnergyICT,RTU,EnergyICT RTU,46.66.190.50,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+730,Elster EnergyICT,RTU,EnergyICT RTU,77.16.21.113,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+731,Elster EnergyICT,RTU,EnergyICT RTU,77.16.15.38,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+732,Elster EnergyICT,RTU,EnergyICT RTU,77.18.154.92,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+733,Elster EnergyICT,RTU,EnergyICT RTU,46.66.169.115,Telenor Norge AS,Stange,11.1942,60.718,Norway,NOR,NA,Telenor Norge AS,AS2119
+734,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.116,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+735,Elster EnergyICT,RTU,EnergyICT RTU,77.16.4.98,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+736,Elster EnergyICT,RTU,EnergyICT RTU,77.18.132.211,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+737,Elster EnergyICT,RTU,EnergyICT RTU,37.253.163.224,Telenor Norge AS,Namsos,11.4957,64.4662,Norway,NOR,NA,Telenor Norge AS,AS2119
+738,Elster EnergyICT,RTU,EnergyICT RTU,77.18.128.13,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+739,Elster EnergyICT,RTU,EnergyICT RTU,88.210.126.169,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+740,Elster EnergyICT,RTU,EnergyICT RTU,77.18.157.121,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+741,Elster EnergyICT,RTU,EnergyICT RTU,46.66.189.197,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+742,Elster EnergyICT,RTU,EnergyICT RTU,77.16.25.55,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+743,Elster EnergyICT,RTU,EnergyICT RTU,193.126.65.163,Nos Comunicacoes, S.A.,Oliveira De Azemeis,-8.49279999999999,40.8524,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+744,Elster EnergyICT,RTU,EnergyICT RTU,77.16.17.233,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+745,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.80,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+746,Elster EnergyICT,RTU,EnergyICT RTU,46.66.183.77,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+747,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.79,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+748,Elster EnergyICT,RTU,EnergyICT RTU,37.253.162.144,Telenor Norge AS,Namsos,11.4957,64.4662,Norway,NOR,NA,Telenor Norge AS,AS2119
+749,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.102,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+750,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.171,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+751,Elster EnergyICT,RTU,EnergyICT RTU,88.210.127.235,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+752,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.36,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+753,Elster EnergyICT,RTU,EnergyICT RTU,87.196.93.88,Nos Comunicacoes, S.A.,Lisbon,-9.13329999999999,38.7167,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+754,Elster EnergyICT,RTU,EnergyICT RTU,46.66.176.29,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+755,Elster EnergyICT,RTU,EnergyICT RTU,77.18.158.58,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+756,Elster EnergyICT,RTU,EnergyICT RTU,77.16.23.222,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+757,Elster EnergyICT,RTU,EnergyICT RTU,77.16.7.244,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+758,Elster EnergyICT,RTU,EnergyICT RTU,46.66.179.137,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+759,Elster EnergyICT,RTU,EnergyICT RTU,37.253.163.70,Telenor Norge AS,Namsos,11.4957,64.4662,Norway,NOR,NA,Telenor Norge AS,AS2119
+760,Elster EnergyICT,RTU,EnergyICT RTU,77.16.17.220,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+761,Elster EnergyICT,RTU,EnergyICT RTU,77.16.6.135,Telenor Norge AS,Oslo,10.7487,59.905,Norway,NOR,NA,Telenor Norge AS,AS2119
+762,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.158,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+763,Elster EnergyICT,RTU,EnergyICT RTU,77.18.157.138,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+764,Elster EnergyICT,RTU,EnergyICT RTU,62.169.78.88,Nos Comunicacoes, S.A.,Vila Nova De Famalicão,-8.5198,41.408,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
+765,Elster EnergyICT,RTU,EnergyICT RTU,37.253.162.236,Telenor Norge AS,Namsos,11.4957,64.4662,Norway,NOR,NA,Telenor Norge AS,AS2119
+766,Elster EnergyICT,RTU,EnergyICT RTU,178.50.222.45,Orange Belgium SA,Kalmthout,4.4667,51.3833,Belgium,BEL,NA,Apn - Webpro.be,AS47377
+767,Elster EnergyICT,RTU,EnergyICT RTU,77.18.146.28,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+768,Elster EnergyICT,RTU,EnergyICT RTU,77.18.130.203,Telenor Norge AS,Skjeberg,11.1903,59.2115,Norway,NOR,NA,Telenor Norge AS,AS2119
+769,Elster EnergyICT,RTU,EnergyICT RTU,46.66.190.173,Telenor Norge AS,NA,10.75,59.95,Norway,NOR,NA,Telenor Norge AS,AS2119
+770,Elster EnergyICT,RTU,EnergyICT RTU,37.253.166.9,Telenor Norge AS,Kolvereid,11.6046,64.8655,Norway,NOR,NA,Telenor Norge AS,AS2119
+771,Elster EnergyICT,RTU,EnergyICT RTU,88.210.126.176,Nos Comunicacoes, S.A.,Loures,-9.16810000000001,38.8291,Portugal,PRT,NA,Nos Comunicacoes, S.A.,AS2860
