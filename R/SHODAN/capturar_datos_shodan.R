@@ -37,12 +37,14 @@ csv <- read.csv(file="dispositivos_industriales.csv", head=TRUE, sep=";")
 
 result<-data.frame()
 for (i in 1:nrow(csv)) {
+  
   fabricante<-as.character(csv[i,"fabricante"])
   producto<-as.character(csv[i,"producto"])
   cadena_busqueda<-as.character(csv[i,"cadena_busqueda"])
+  
   print(cadena_busqueda)
   aux<-shodan_search(cadena_busqueda)
-  Sys.sleep(2)
+  Sys.sleep(1)
   v_fabricante<-rstring(fabricante,length(aux$matches$ip_str))
   v_producto<-rstring(producto,length(aux$matches$ip_str))
   v_cadena_busqueda<-rstring(cadena_busqueda,length(aux$matches$ip_str))
