@@ -1,6 +1,6 @@
 fabricante;producto;cadena_busqueda
+Siemens;Scalance S;Scalance S
 Rabbit;Generic;Z-World Rabbit
-Siemens;Simatic S7;S7-200
 Siemens;Simatic S7;S7-300
 Trend;IQ3xcite;iq3
 Schneider Electric;Generic;PowerLogic
@@ -30,8 +30,6 @@ Schneider Electric;PowerLogic EGX;Schneider Electric EGX100MG
 Schneider Electric;PowerLogic PM;Schneider Electric PM820SD
 Schneider Electric;PowerLogic PM1;Schneider Electric PM870SD
 Siemens;Scalance W;Scalance W
-Siemens;Scalance X;Scalance X
-Siemens;Scalance S;Scalance S
 ACKP;Generic;AKCP Embedded Web Server
 Allen-Bradley;Generic;Allen-Bradley
 BroadWeb;Generic;BroadWeb
@@ -55,9 +53,7 @@ Generic;Generic;Powerlink
 Schneider Electric;Modicon;Modicon M340
 Moxa;Generic;MoxaHttp
 Schneider Electric;Modicon;Modicon M340 CPU
-Tridium;Generic;Niagara Web Server
 Generic;Generic;PLC
-Siemens;Simatic S7;Portal0000.htm
 Siemens;Simatic S7;Portal0000	
 RTS Services;Generic;RTS SCADA Server
 Reliance;Reliance 4;Reliance 4 Control Server
@@ -67,7 +63,6 @@ Generic;Generic;SCADA
 Siemens;Simatic HMI;SIMATIC HMI
 Siemens;Simatic NET;SIMATIC NET
 Generic;Generic;SLC5
-Siemens;Scalance X;Scalance X
 Allen-Bradley;Generic;Series C Revision
 Siemens;Generic;Siemens
 Siemens;Simatic HMI;Simatic
