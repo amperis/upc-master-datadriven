@@ -1,4 +1,37 @@
 fabricante;producto;cadena_busqueda
+Rabbit;Generic;Z-World Rabbit
+Siemens;Simatic S7;S7-200
+Siemens;Simatic S7;S7-300
+Trend;IQ3xcite;iq3
+Schneider Electric;Generic;PowerLogic
+Schneider Electric;PowerLogic ION;Meter ION
+Schneider Electric;Tac XENTA 913;TAC/Xenta
+Schneider Electric;Generic;Power Measurement Ltd
+Schneider Electric;Generic;Schneider-WEB
+ABB;RTU500;ABB RTU560
+ABB;Generic;ABB Webmodule
+Schneider Electric;PowerLogic PM;PowerLogic PM800
+General Electric;Proficy;ProficyPortal
+Schneider Electric;CitectSCADA;CitectSCADA
+Generic;Generic;openerp server:CherryPy
+Schneider Electric;PowerLogic ION;Power Measurement Ltd ION8650
+Schneider Electric;PowerLogic PM;PowerLogic PM800
+Adcon Telemetry;A850 Telemetry Gateway;A850 Telemetry Gateway
+THUS;Generic;THUS plc FTP server
+Schneider Electric;Tac XENTA 913;Tac XENTA 913
+Siemens;Simatic HMI;Welcome to the Windows CE Telnet Service on HMI_Panel
+Generic;Generic;GoAhead-Webs InitialPage.asp
+Novatech;Generic;NovaTech HTTPD
+Tridium;Generic;Niagara Web Server
+Generic;Generic;webSCADA-Modbus
+Schleifenbauer;SPbus gateway;Schleifenbauer SPbus gateway
+Schneider Electric;PowerLogic ECC;Schneider Electric ECC21
+Schneider Electric;PowerLogic EGX;Schneider Electric EGX100MG
+Schneider Electric;PowerLogic PM;Schneider Electric PM820SD
+Schneider Electric;PowerLogic PM1;Schneider Electric PM870SD
+Siemens;Scalance W;Scalance W
+Siemens;Scalance X;Scalance X
+Siemens;Scalance S;Scalance S
 ACKP;Generic;AKCP Embedded Web Server
 Allen-Bradley;Generic;Allen-Bradley
 BroadWeb;Generic;BroadWeb
@@ -25,7 +58,7 @@ Schneider Electric;Modicon;Modicon M340 CPU
 Tridium;Generic;Niagara Web Server
 Generic;Generic;PLC
 Siemens;Simatic S7;Portal0000.htm
-Siemens;Simatic S7;Portal0000
+Siemens;Simatic S7;Portal0000	
 RTS Services;Generic;RTS SCADA Server
 Reliance;Reliance 4;Reliance 4 Control Server
 Rockwell Automation;Generic;Rockwell Automation

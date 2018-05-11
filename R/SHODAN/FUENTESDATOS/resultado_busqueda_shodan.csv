@@ -1,0 +1,107 @@
+v_fabricante;v_producto;v_cadena_busqueda;aux.matches.ip_str;aux.matches.isp;aux.matches.location.city;aux.matches.location.longitude;aux.matches.location.latitude;aux.matches.location.country_name;aux.matches.location.country_code3;aux.matches.os;aux.matches.org;aux.matches.asn
+Schneider Electric;Generic;Power Measurement Ltd;200.23.18.112;Universidad Autonoma de la Laguna;Torreón;-103.4333;25.55;Mexico;MEX;NA;Universidad Autonoma de la Laguna;AS11172
+Schneider Electric;Generic;Schneider-WEB;64.184.158.156;Northwest Open Access Network;Eastsound;-122.8119;48.6576;United States;USA;NA;Northwest Open Access Network;AS16713
+Schneider Electric;Generic;Schneider-WEB;166.130.128.108;AT&T Wireless;Atlanta;-84.388;33.749;United States;USA;NA;AT&T Wireless;AS20057
+Schneider Electric;Generic;Schneider-WEB;195.235.58.243;Telefonica de Espana;NA;-3.684;40.4172;Spain;ESP;NA;Telefonica de Espana;AS3352
+Schneider Electric;Generic;Schneider-WEB;166.141.203.235;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;217.168.181.133;Azercell;NA;47.5;40.5;Azerbaijan;AZE;NA;Azercell Telecom / Outdoor Wi-Fi customers ranges;AS31721
+Schneider Electric;Generic;Schneider-WEB;82.184.47.235;Telecom Italia Business;Treviolo;9.61199999999999;45.6737;Italy;ITA;NA;Telecom Italia Business;AS3269
+Schneider Electric;Generic;Schneider-WEB;166.143.123.214;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;38.92.116.6;Cogent Communications;NA;-97.822;37.751;United States;USA;NA;Access Haiti S.A.;AS27759
+Schneider Electric;Generic;Schneider-WEB;186.11.6.252;Entel PCS Telecomunicaciones S.A.;Santiago;-70.6667;-33.45;Chile;CHL;NA;Entel PCS Telecomunicaciones S.A.;AS27925
+Schneider Electric;Generic;Schneider-WEB;81.7.66.81;Telia Lietuva, AB;Mazeikiai;22.3333;56.3167;Lithuania;LTU;NA;Telia Lietuva, AB;AS8764
+Schneider Electric;Generic;Schneider-WEB;151.33.187.174;Wind Telecomunicazioni;Nichelino;7.65309999999999;45.0003;Italy;ITA;NA;WIND;AS1267
+Schneider Electric;Generic;Schneider-WEB;78.220.191.8;Free SAS;Sinsat;1.66040000000001;42.7984;France;FRA;NA;Free SAS;AS12322
+Schneider Electric;Generic;Schneider-WEB;166.239.205.43;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;193.152.85.241;Telefonica de Espana Static IP;NA;-3.684;40.4172;Spain;ESP;NA;Telefonica de Espana Static IP;AS3352
+Schneider Electric;Generic;Schneider-WEB;37.247.92.47;Envia Tel GmbH;NA;9.49100000000001;51.2993;Germany;DEU;NA;Envia Tel GmbH;AS21413
+Schneider Electric;Generic;Schneider-WEB;201.201.112.7;Grupo ICE;NA;-84;10;Costa Rica;CRI;NA;ASERRI;AS11830
+Schneider Electric;Generic;Schneider-WEB;193.251.92.69;Orange;Rouen;1.08330000000001;49.4333;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;82.127.203.17;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;81.248.23.93;Orange;Pointe-à-pitre;-61.5167;16.2333;Guadeloupe;GLP;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;61.220.142.247;HiNet;Taipei;121.5318;25.0478;Taiwan;TWN;NA;HiNet;AS3462
+Schneider Electric;Generic;Schneider-WEB;166.251.207.75;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;166.239.205.62;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;109.1.174.173;SFR;Villenave-d'ornon;-0.544199999999989;44.7733;France;FRA;NA;SFR;AS15557
+Schneider Electric;Generic;Schneider-WEB;68.115.46.254;Spectrum;La Crosse;-91.1286;43.7982;United States;USA;NA;Spectrum;AS20115
+Schneider Electric;Generic;Schneider-WEB;88.160.243.168;Free SAS;Saint-germain-lès-corbeil;2.49809999999999;48.5705;France;FRA;NA;Free SAS;AS12322
+Schneider Electric;Generic;Schneider-WEB;79.60.105.190;Telecom Italia Business;Castel San Giorgio;14.7009;40.782;Italy;ITA;NA;Telecom Italia Business;AS3269
+Schneider Electric;Generic;Schneider-WEB;81.248.169.58;Orange;NA;-61.5833;16.25;Guadeloupe;GLP;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;186.9.95.191;Entel PCS Telecomunicaciones S.A.;Santiago;-70.6667;-33.45;Chile;CHL;NA;Entel PCS Telecomunicaciones S.A.;AS27925
+Schneider Electric;Generic;Schneider-WEB;59.125.0.166;HiNet;Beidou;120.5243;23.8729;Taiwan;TWN;NA;HiNet;AS3462
+Schneider Electric;Generic;Schneider-WEB;217.168.180.83;Azercell;NA;47.5;40.5;Azerbaijan;AZE;NA;Azercell Telecom / Outdoor Wi-Fi customers ranges;AS31721
+Schneider Electric;Generic;Schneider-WEB;82.127.85.28;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;211.75.178.247;HiNet;Taipei;121.5318;25.0478;Taiwan;TWN;NA;HiNet;AS3462
+Schneider Electric;Generic;Schneider-WEB;46.160.140.15;UGMK-Telecom LLC;Kemerovo;86.0833;55.3333;Russian Federation;RUS;NA;UGMK-Telecom network;AS41560
+Schneider Electric;Generic;Schneider-WEB;75.150.79.146;Comcast Cable;Attleboro;-71.2943;41.9395;United States;USA;NA;Comcast Business;AS7922
+Schneider Electric;Generic;Schneider-WEB;212.97.160.203;Vodafone Ono;Zaragoza;-0.877299999999991;41.6561;Spain;ESP;NA;Vodafone Ono;AS6739
+Schneider Electric;Generic;Schneider-WEB;129.44.72.181;Verizon Business;Endicott;-76.0909;42.146;United States;USA;NA;Verizon Business;AS701
+Schneider Electric;Generic;Schneider-WEB;80.164.231.118;TDC Danmark;NA;12.0564;55.7123;Denmark;DNK;NA;TDC Danmark;AS3292
+Schneider Electric;Generic;Schneider-WEB;83.167.174.210;AwellConnected.Com;Chipping Norton;-1.5333;51.8667;United Kingdom;GBR;NA;AwellConnected.Com;AS31595
+Schneider Electric;Generic;Schneider-WEB;2.193.15.84;Telecom Italia Mobile;Florence;11.25;43.7667;Italy;ITA;NA;Telecom Italia Mobile;AS16232
+Schneider Electric;Generic;Schneider-WEB;82.215.181.36;Uno Communications SpA;Mioglia;8.4143;44.4921;Italy;ITA;NA;Uno Communications SpA;AS9137
+Schneider Electric;Generic;Schneider-WEB;5.98.81.250;Telecom Italia Business;NA;12.1097;43.1479;Italy;ITA;NA;Telecom Italia Business;AS3269
+Schneider Electric;Generic;Schneider-WEB;58.94.100.98;NTT;Ashiharacho;135.5;34.6667;Japan;JPN;NA;NTT;AS4713
+Schneider Electric;Generic;Schneider-WEB;105.235.149.210;Emtel Ltd;NA;57.55;-20.2833;Mauritius;MUS;NA;Emtel Ltd;AS30999
+Schneider Electric;Generic;Schneider-WEB;166.139.4.118;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;184.185.214.79;Cox Communications;Wichita;-97.4346;37.615;United States;USA;NA;Cox Communications;AS22773
+Schneider Electric;Generic;Schneider-WEB;81.248.23.101;Orange;Pointe-à-pitre;-61.5167;16.2333;Guadeloupe;GLP;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;201.120.68.238;Telmex;La Paz;-110.3;24.1667;Mexico;MEX;NA;Telmex;AS8151
+Schneider Electric;Generic;Schneider-WEB;81.248.23.96;Orange;Pointe-à-pitre;-61.5167;16.2333;Guadeloupe;GLP;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;46.160.140.3;UGMK-Telecom LLC;Kemerovo;86.0833;55.3333;Russian Federation;RUS;NA;UGMK-Telecom network;AS41560
+Schneider Electric;Generic;Schneider-WEB;173.182.114.194;Telus Mobility;NA;-79.3716;43.6319;Canada;CAN;NA;Telus Mobility;AS852
+Schneider Electric;Generic;Schneider-WEB;80.13.252.22;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;166.239.227.45;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;80.13.112.193;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;186.9.70.153;Entel PCS Telecomunicaciones S.A.;Vina Del Mar;-71.5197;-33.0081;Chile;CHL;NA;Entel PCS Telecomunicaciones S.A.;AS27925
+Schneider Electric;Generic;Schneider-WEB;86.241.89.82;Orange;Mortagne-au-perche;0.593600000000009;48.4613;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;186.11.7.20;Entel PCS Telecomunicaciones S.A.;Santiago;-70.6667;-33.45;Chile;CHL;NA;Entel PCS Telecomunicaciones S.A.;AS27925
+Schneider Electric;Generic;Schneider-WEB;109.1.249.141;SFR;Malakoff;2.30000000000001;48.82;France;FRA;NA;SFR;AS15557
+Schneider Electric;Generic;Schneider-WEB;151.59.72.173;Wind Telecomunicazioni;NA;12.1097;43.1479;Italy;ITA;NA;WIND Telecomunicazion;AS1267
+Schneider Electric;Generic;Schneider-WEB;80.13.56.33;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;186.9.163.212;Entel PCS Telecomunicaciones S.A.;Santiago;-70.6667;-33.45;Chile;CHL;NA;Entel PCS Telecomunicaciones S.A.;AS27925
+Schneider Electric;Generic;Schneider-WEB;166.239.205.49;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;41.227.20.81;Hexabyte;NA;9;34;Tunisia;TUN;NA;Globalnet;AS37671
+Schneider Electric;Generic;Schneider-WEB;166.143.123.217;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;63.143.82.8;Digicel Jamaica;Kingston;-76.8;18;Jamaica;JAM;NA;Digicel Jamaica;AS33576
+Schneider Electric;Generic;Schneider-WEB;46.160.140.23;UGMK-Telecom LLC;Kemerovo;86.0833;55.3333;Russian Federation;RUS;NA;UGMK-Telecom network;AS41560
+Schneider Electric;Generic;Schneider-WEB;151.59.130.21;Wind Telecomunicazioni;NA;12.1097;43.1479;Italy;ITA;NA;WIND Telecomunicazion;AS1267
+Schneider Electric;Generic;Schneider-WEB;178.33.79.93;OVH SAS;NA;2.33869999999999;48.8582;France;FRA;NA;OVH SAS;AS16276
+Schneider Electric;Generic;Schneider-WEB;46.160.140.25;UGMK-Telecom LLC;Kemerovo;86.0833;55.3333;Russian Federation;RUS;NA;UGMK-Telecom network;AS41560
+Schneider Electric;Generic;Schneider-WEB;209.173.1.152;PenTeleData;NA;-97.822;37.751;United States;USA;NA;PenTeleData;AS3737
+Schneider Electric;Generic;Schneider-WEB;195.151.198.112;LLC Equant;Moscow;37.6156;55.7522;Russian Federation;RUS;NA;LLC Equant;AS2854
+Schneider Electric;Generic;Schneider-WEB;2.139.230.220;Telefonica de Espana Static IP;Barcelona;2.17410000000001;41.3984;Spain;ESP;NA;Telefonica de Espana Static IP;AS3352
+Schneider Electric;Generic;Schneider-WEB;82.127.255.6;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;80.15.131.12;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;50.76.214.155;Comcast Cable;Collierville;-89.651;35.0911;United States;USA;NA;Comcast Business;AS7922
+Schneider Electric;Generic;Schneider-WEB;46.160.139.7;UGMK-Telecom LLC;Novosibirsk;82.9346;55.0415;Russian Federation;RUS;NA;UGMK-Telecom network;AS41560
+Schneider Electric;Generic;Schneider-WEB;95.240.12.52;Telecom Italia Business;Succivo;14.2556;40.968;Italy;ITA;NA;Telecom Italia Business;AS3269
+Schneider Electric;Generic;Schneider-WEB;188.13.197.3;Telecom Italia Business;Urgnano;9.7287;45.6139;Italy;ITA;NA;Telecom Italia Business;AS3269
+Schneider Electric;Generic;Schneider-WEB;80.15.174.32;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;181.42.7.133;Entel PCS Telecomunicaciones S.A.;San Fernando;-70.65;-32.75;Chile;CHL;NA;Entel PCS Telecomunicaciones S.A.;AS27925
+Schneider Electric;Generic;Schneider-WEB;217.128.28.234;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;82.127.85.28;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;193.248.164.46;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;81.39.190.160;Telefonica de Espana;Zaragoza;-0.877299999999991;41.6561;Spain;ESP;NA;Telefonica de Espana;AS3352
+Schneider Electric;Generic;Schneider-WEB;173.0.36.72;Network Communications;Kilgore;-94.8701;32.3801;United States;USA;NA;Network Communications;AS12019
+Schneider Electric;Generic;Schneider-WEB;190.91.55.118;Entel PCS Telecomunicaciones S.A.;Santiago;-70.6667;-33.45;Chile;CHL;NA;Entel PCS Telecomunicaciones S.A.;AS27925
+Schneider Electric;Generic;Schneider-WEB;80.15.145.69;Orange;Paris;2.32919999999999;48.8628;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;80.11.118.124;Orange;NA;2.33869999999999;48.8582;France;FRA;NA;Orange;AS3215
+Schneider Electric;Generic;Schneider-WEB;217.168.180.79;Azercell;NA;47.5;40.5;Azerbaijan;AZE;NA;Azercell Telecom / Outdoor Wi-Fi customers ranges;AS31721
+Schneider Electric;Generic;Schneider-WEB;201.201.112.6;Grupo ICE;NA;-84;10;Costa Rica;CRI;NA;ASERRI;AS11830
+Schneider Electric;Generic;Schneider-WEB;166.239.205.57;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;166.150.124.204;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;59.120.152.67;HiNet;Taipei;121.5318;25.0478;Taiwan;TWN;NA;HiNet;AS3462
+Schneider Electric;Generic;Schneider-WEB;217.168.180.81;Azercell;NA;47.5;40.5;Azerbaijan;AZE;NA;Azercell Telecom / Outdoor Wi-Fi customers ranges;AS31721
+Schneider Electric;Generic;Schneider-WEB;79.0.57.124;Telecom Italia Business;Ghisalba;9.75;45.5833;Italy;ITA;NA;Telecom Italia Business;AS3269
+Schneider Electric;Generic;Schneider-WEB;166.130.128.99;AT&T Wireless;Atlanta;-84.388;33.749;United States;USA;NA;AT&T Wireless;AS20057
+Schneider Electric;Generic;Schneider-WEB;181.42.4.5;Entel PCS Telecomunicaciones S.A.;San Fernando;-70.65;-32.75;Chile;CHL;NA;Entel PCS Telecomunicaciones S.A.;AS27925
+Schneider Electric;Generic;Schneider-WEB;188.59.105.124;Turkcell;NA;28.9948;41.0214;Turkey;TUR;NA;Turkcell;AS16135
+Schneider Electric;Generic;Schneider-WEB;166.239.205.47;Verizon Wireless;NA;-97.822;37.751;United States;USA;NA;Verizon Wireless;AS22394
+Schneider Electric;Generic;Schneider-WEB;109.1.235.204;SFR;Chamrousse;5.875;45.1282;France;FRA;NA;SFR;AS15557
+Schneider Electric;Generic;Schneider-WEB;178.182.226.187;T-mobile Polska;Polska;19.0894;52.5931;Poland;POL;NA;blueconnect;AS12912
+ABB;RTU500;ABB RTU560;212.5.144.2;Vivacom;Burgas;27.4667;42.5;Bulgaria;BGR;NA;Vivacom;AS8866
+ABB;RTU500;ABB RTU560;213.226.45.3;Mtel;NA;23.3333;42.7;Bulgaria;BGR;NA;Mtel;AS12716
+ABB;RTU500;ABB RTU560;188.59.108.66;Turkcell;NA;28.9948;41.0214;Turkey;TUR;Windows 7 or 8;Turkcell;AS16135
+ABB;RTU500;ABB RTU560;213.226.45.163;Mtel;NA;23.3333;42.7;Bulgaria;BGR;NA;Mtel;AS12716
+ABB;RTU500;ABB RTU560;213.226.45.161;Mtel;NA;23.3333;42.7;Bulgaria;BGR;NA;Mtel;AS12716
