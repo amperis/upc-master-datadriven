@@ -25,7 +25,7 @@ packageVersion("shodan")
 account_profile()
 
 #--- cargado lista de dispositivos industriales a buscar en Shodan
-csv <- read.csv(file="./FUENTESDATOS/dispositivos_industriales.csv", head=TRUE, sep=";")
+csv <- read.csv(file="./FUENTESDATOS/dispositivos_industriales.csv", head=TRUE, sep=";", stringsAsFactors = FALSE)
 
 result<-data.frame()
 
