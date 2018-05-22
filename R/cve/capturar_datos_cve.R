@@ -1,0 +1,14 @@
+# capturar_datos_cve
+#
+# Info:
+#    https://github.com/hrbrmstr/shodan
+
+#--- carga de librerias
+library(devtools)
+library(xtable)
+library(pupcmasterdatadriven)
+
+clearvariables()
+
+URL <- "https://cve.mitre.org/data/downloads/allitems.csv"
+download.file(URL, destfile = "./FUENTESDATOS/allcve.csv", method="curl")
