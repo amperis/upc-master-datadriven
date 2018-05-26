@@ -30,7 +30,7 @@ cves <- netsec.data$datasets$cves
 
 #--- buscamos las vulnerabilidades industriales que tienen los dispostivos industriales de data frame "dispostivos_industriales"
 affects<-dplyr::select(cves,"affects")
-result<-data.frame()
+dispositivos_industriales_vuls<-data.frame()
 for (i in 1:nrow(dispositivos_industriales)) {
    buscar_fabricante<-as.character(dispositivos_industriales[i,"fabricante"])
    buscar_producto<-as.character(dispositivos_industriales[i,"producto"])
@@ -51,11 +51,33 @@ for (i in 1:nrow(dispositivos_industriales)) {
 
    #--- construyo una tabla con los con los resultados obtenido
    result_aux<-data.frame(buscar_fabricante,buscar_producto, buscar_cadena_busqueda, vuls)   
-   result <- rbind(result,result_aux)
+   dispositivos_industriales_vuls <- rbind(dispositivos_industriales_vuls,result_aux)
 }
 
 #--- guardando los resultado en local
-save(result,file="./RESULTADOS/vuls_dispositivos_industriales.rda")
+save(dispositivos_industriales_vuls,file="./RESULTADOS/vuls_dispositivos_industriales.rda")
 
+#--- buscamos las vulnerabilidades industriales que tienen los dispostivos industriales de data frame "dispostivos_shodan"
+load("./RESULTADOS/vuls_dispositivos_industriales.rda")
+dispositivos_industriales_shodan_vuls<-data.frame()
+for (i in 1:nrow(dispositivos_shodan)) {
+   aux_buscar_fabricante<-as.character(dispositivos_shodan[i,"v_fabricante"])
+   aux_buscar_producto<-as.character(dispositivos_shodan[i,"v_producto"])
+   aux_buscar_cadena_busqueda<-as.character(dispositivos_shodan[i,"v_cadena_busqueda"])  
+   ip<-as.character(dispositivos_shodan[i,"aux.matches.ip_str"])
+   long<-as.character(dispositivos_shodan[i,"aux.matches.location.longitude"])
+   lati<-as.character(dispositivos_shodan[i,"aux.matches.location.latitude"])
+   country<-as.character(dispositivos_shodan[i,"aux.matches.location.country_name"])
+   country_code<-as.character(dispositivos_shodan[i,"aux.matches.location.country_code3"])
+   
+   filteraffects<-dplyr::filter(dispositivos_industriales_vuls, buscar_fabricante==aux_buscar_fabricante, buscar_producto==aux_buscar_producto, buscar_cadena_busqueda==aux_buscar_cadena_busqueda)
+   vuls<-filteraffects$vuls
+   print(paste(buscar_fabricante, buscar_producto,  buscar_cadena_busqueda, ip, long, lati, country, country_code, vuls, sep="|"))
+   
+   #--- construyo una tabla con los con los resultados obtenido
+   result_aux<-data.frame(buscar_fabricante, buscar_producto,  buscar_cadena_busqueda, ip, long, lati, country, country_code, vuls)   
+   dispositivos_industriales_shodan_vuls <- rbind(dispositivos_industriales_shodan_vuls,result_aux)
+}
 
-
+#--- guardando los resultado en local
+save(dispositivos_industriales_shodan_vuls,file="./RESULTADOS/vuls_dispositivos_industriales_shodan.rda")
