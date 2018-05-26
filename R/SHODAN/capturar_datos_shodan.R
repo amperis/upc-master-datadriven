@@ -60,8 +60,8 @@ for (i in 1:nrow(csv)) {
    cat("Quedan: ", total_busquedas,"\n--------------\n")
 }
 
-#--- guardo todos mis datos en un CSV
-save(dispositivos_industriales_shodan,file="./FUENTESDATOS/vuls_dispositivos_industriales_shodan.rda")
+#--- guardo todos mis datos en un dataframe en Local
+save(dispositivos_industriales_shodan,file="./FUENTESDATOS/dispositivos_industriales_shodan.rda")
 #write.table(result,file="./FUENTESDATOS/resultado_busqueda_shodan.csv",quote=FALSE, sep=";", row.names = FALSE)
 
 
