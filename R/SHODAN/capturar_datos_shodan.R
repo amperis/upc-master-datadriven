@@ -61,8 +61,8 @@ for (i in 1:nrow(csv)) {
 }
 
 #--- guardo todos mis datos en un dataframe en Local
-save(dispositivos_industriales_shodan,file="./FUENTESDATOS/dispositivos_industriales_shodan.rda")
-#write.table(result,file="./FUENTESDATOS/resultado_busqueda_shodan.csv",quote=FALSE, sep=";", row.names = FALSE)
+#save(dispositivos_industriales_shodan,file="./FUENTESDATOS/dispositivos_industriales_shodan.rda")
+write.table(dispositivos_industriales_shodan,file="./FUENTESDATOS/dispositivos_industriales_shodan.csv",quote=FALSE, sep=";", row.names = FALSE)
 
 
 
