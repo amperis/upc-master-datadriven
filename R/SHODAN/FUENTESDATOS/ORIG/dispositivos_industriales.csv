@@ -1,0 +1,86 @@
+fabricante;producto;cadena_busqueda
+Philips;Philips Hue Lighing;"http.title:""hue personal wireless lighting"""
+Schneider Electric;PowerLogic ECC;Schneider Electric ECC21
+Schneider Electric;PowerLogic EGX;Schneider Electric EGX100MG
+Schneider Electric;PowerLogic ION;Power Measurement Ltd ION8650
+Schneider Electric;PowerLogic ION;Meter ION
+Schneider Electric;PowerLogic PM;Schneider Electric PM820SD
+Schneider Electric;PowerLogic PM;PowerLogic PM800
+Schneider Electric;PowerLogic PM;PowerLogic PM800
+Schneider Electric;PowerLogic PM1;Schneider Electric PM870SD
+General Electric;Proficy;ProficyPortal
+Reliance;Reliance 4;Reliance 4 Control Server
+Elster EnergyICT;RTU;EnergyICT RTU
+ABB;RTU500;ABB RTU560
+Siemens;Scalance S;Scalance S
+Siemens;Simatic HMI;SIMATIC HMI
+Siemens;Simatic HMI;Simatic
+Siemens;Simatic HMI;HMI, XP277
+Siemens;Simatic NET;SIMATIC NET
+Siemens;Simatic NET;Simatic net
+Siemens;Simatic S7;Simatic S7
+Siemens;Simatic S7;Simatic -S7 HMI
+Siemens;Simatic S7;"Portal0000	"
+Schleifenbauer;SPbus gateway;Schleifenbauer SPbus gateway
+Schneider Electric;Tac XENTA 913;TAC/Xenta
+Schneider Electric;Tac XENTA 913;Tac XENTA 913
+Wind River;VxWorks;VxWorks
+Wind River;VxWorks;VxWorks
+Wago;WAGO;WAGO
+Codesys;WebVisu;Webvisu
+Belking;WeMo Lomk;"product:""WeMo Link"""
+NRG Systems;WindCube;WindWeb
+Siemens;Simatic HMI;Welcome to the Windows CE Telnet Service on HMI_Panel
+Fujitsu;ServerView;serverview
+Adcon Telemetry;A850 Telemetry Gateway;A850 Telemetry Gateway
+Adcon Telemetry;addUPI-OPC Server;addUPI Server
+General Electric;Cimplicity;CIMPLICITY-HttpSvr
+Circontrol;CirCarLife Scada;CirCarLife Scada
+Schneider Electric;CitectSCADA;CitectSCADA
+Elster EnergyICT;eiPortal;eiPortal
+Delta Controls;enteliTOUCH;DELTA enteliTOUCH
+Cimetrics;Eplus – B/IP to B/WS Gateway Firewall;Cimetrics Eplus Web Server
+HMS;EtherNet/IP /Modbus-TCP Interface;HMS AnyBus-S WebServer
+ABB;Generic;ABB Webmodule
+ACKP;Generic;AKCP Embedded Web Server
+Allen-Bradley;Generic;Series C Revision
+Allen-Bradley;Generic;Allen-Bradley
+BroadWeb;Generic;BroadWeb
+Clorius Controls;Generic;ISC SCADA Service HTTPserv:00001
+Electro Industries GaugeTech;Generic;EIG Embedded Web Server
+Elster EnergyICT;Generic;EnergyICT
+Generic;Generic;webSCADA-Modbus
+Generic;Generic;SLC5
+Generic;Generic;Powerlink
+Generic;Generic;PLC
+Generic;Generic;openerp server:CherryPy
+Generic;Generic;NET ARM Web Server/1.00
+Generic;Generic;ModbusGW
+Generic;Generic;Modbus Bridge
+Generic;Generic;Jetty 3.1.8 (Windows 2000 5.0 x86)
+Generic;Generic;GoAhead-Webs InitialPage.asp
+Moxa;Generic;MoxaHttp
+Novatech;Generic;NovaTech HTTPD
+Rabbit;Generic;Z-World Rabbit
+Rockwell Automation;Generic;Rockwell Automation
+RTS Services;Generic;RTS SCADA Server
+Schneider Electric;Generic;Schneider-WEB
+Schneider Electric;Generic;PowerLogic
+Schneider Electric;Generic;Power Measurement Ltd
+Schneider Electric;Generic;ClearSCADA
+SoftPLC;Generic;SoftPLC
+SpiderControl;Generic;SpiderControl
+Stulz;Generic;Stulz GmbH Klimatechnik
+THUS;Generic;THUS plc FTP server
+Tridium;Generic;niagara_audit
+Tridium;Generic;Niagara Web Server
+Echelon;i.LON 600;i.LON
+Moxa;ioLogik;ioLogik Web Server
+Beck IPC;IPC@CHIP;IPC@CHIP
+Trend;IQ3xcite;iq3
+Rockwell Automation;Micrologix;Micrologix
+Schneider Electric;Modicon;TELEMECANIQUE BMX
+Schneider Electric;Modicon;Modicon M340 CPU
+Schneider Electric;Modicon;Modicon M340
+SAP;NetWeaver Application Server;SAP NetWeaver Application Server
+Siemens;Original Siemens Equipment;Original Siemens Equipment
