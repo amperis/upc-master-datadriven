@@ -81,3 +81,5 @@ for (i in 1:nrow(dispositivos_shodan)) {
 
 #--- guardando los resultado en local
 save(dispositivos_industriales_shodan_vuls,file="./RESULTADOS/vuls_dispositivos_industriales_shodan.rda")
+
+
