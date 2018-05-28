@@ -1,0 +1,15 @@
+
+library(leaflet)
+library(sp)
+library(RCurl)
+
+
+data<-read.csv(text=getURL("https://raw.githubusercontent.com/amperis/upc-master-datadriven/master/R/SHODAN/FUENTESDATOS/ORIG/dispositivos_industriales_shodan.csv"),head=TRUE, sep=";", stringsAsFactors = FALSE)
+
+data$long <- as.numeric(data$aux.matches.location.longitude)
+data$lat <- as.numeric(data$aux.matches.location.latitude)
+
+m <- leaflet(data) %>%
+  addTiles()  %>%
+  addCircles(lng = ~long, lat=~lat, popup = ~data$aux.matches.ip_str)
+m
