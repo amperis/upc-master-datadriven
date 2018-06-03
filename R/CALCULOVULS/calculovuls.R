@@ -49,7 +49,7 @@ for (i in 1:nrow(dispositivos_industriales)) {
    }
    print(vuls)
 
-   #--- construyo una tabla con los con los resultados obtenido
+   #--- construccion de una tabla con los con los resultados obtenidos
    result_aux<-data.frame(buscar_fabricante,buscar_producto, buscar_cadena_busqueda, vuls)   
    dispositivos_industriales_vuls <- rbind(dispositivos_industriales_vuls,result_aux)
 }
@@ -74,12 +74,12 @@ for (i in 1:nrow(dispositivos_shodan)) {
    vuls<-filteraffects$vuls
    print(paste(buscar_fabricante, buscar_producto,  buscar_cadena_busqueda, ip, long, lati, country, country_code, vuls, sep="|"))
    
-   #--- construyo una tabla con los con los resultados obtenido
+   #--- construccion de una tabla con los con los resultados obtenidos
    result_aux<-data.frame(buscar_fabricante, buscar_producto,  buscar_cadena_busqueda, ip, long, lati, country, country_code, vuls)   
    dispositivos_industriales_shodan_vuls <- rbind(dispositivos_industriales_shodan_vuls,result_aux)
 }
 
-#--- guardando los resultado en local
+#--- guardando los resultados en local
 save(dispositivos_industriales_shodan_vuls,file="./RESULTADOS/vuls_dispositivos_industriales_shodan.rda")
 
 
